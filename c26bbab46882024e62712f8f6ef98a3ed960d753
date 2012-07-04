@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6dk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-04T01:49:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAUH//6iY\u003d",
+      "revId": "c26bbab46882024e62712f8f6ef98a3ed960d753",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//6iU\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-07-03T22:12:38Z",
       "side": 1,
       "message": "In engels ook save? Kan mss ook gebruikt worden als beltoon ofzo?",
+      "revId": "c26bbab46882024e62712f8f6ef98a3ed960d753",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6dg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-04T01:49:51Z",
+      "side": 1,
+      "message": "Was het niet zo\u0027n optie dat je, als je klaar was met opnemen, kon beslissen of het opgeslagen moest worden of niet?",
+      "parentUuid": "AAAAUH//6iU\u003d",
       "revId": "c26bbab46882024e62712f8f6ef98a3ed960d753",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
