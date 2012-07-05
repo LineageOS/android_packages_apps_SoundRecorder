@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//6PA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-05T18:39:14Z",
+      "side": 1,
+      "message": "Engels is hier: Use this recording\n\nIk zou de vertaling toch behouden. Ben niet op CM7 dus weet niet echt welke opties je krijgt.",
+      "revId": "bb5044de247b1e75a57d14fd3155ed9f00d14080",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
