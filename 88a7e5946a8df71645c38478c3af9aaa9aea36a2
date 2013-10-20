@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_1c048a13",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T07:06:23Z",
+      "side": 1,
+      "message": "Geen probleem dat de oude blijven bestaan dan?",
+      "parentUuid": "3a50d1a3_995bcc54",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_99866cb8",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "Dit is in het Engels gewijzigd",
       "parentUuid": "3a50d1a3_99866cb8",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_bc08f629",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T07:06:23Z",
+      "side": 1,
+      "message": "ja jouw aanpassing is wel goed",
+      "parentUuid": "3a50d1a3_39587856",
       "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -142,6 +178,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_dc0dc238",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T07:06:23Z",
+      "side": 1,
+      "message": "Bij geluidsrecorders kan je 2 dingen opnemen; het in call geluid, of de speaker als je m op speaker zet. Zijn 2 verschillende dingen voor hetzelfde gesprek\n\nEn een gesprek moet juist niet al actief zijn volgens mij, je moet deze optie vantevoren aan zetten\n\nIk vind het Engels te verwarrend, maar ben bang dat daar geen antwoord op zal komen, zoals zo vaak...",
+      "parentUuid": "3a50d1a3_f930d009",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_19681cf5",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -206,6 +260,24 @@
       "side": 1,
       "message": "Tja, er is ook een string \u0027recording\u0027 met diezelfde inhoud en er staat \u0027recording_now\u0027...\n\nIk kan er ook niet veel van maken",
       "parentUuid": "3a50d1a3_f9621016",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_7c134e5d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T07:06:23Z",
+      "side": 1,
+      "message": "Dan is \"Nu aan het opnemen\" beter, maar dat verkorten we altijd tot \"opnemen\"",
+      "parentUuid": "3a50d1a3_b93a48e6",
       "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
