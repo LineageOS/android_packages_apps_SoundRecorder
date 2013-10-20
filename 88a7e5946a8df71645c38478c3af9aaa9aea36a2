@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_995bcc54",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-20T05:30:49Z",
+      "side": 1,
+      "message": "Klopt, maar dat doe ik zodat strings.xml niet wordt veranderd. De vertaling heb ik hetzelfde gelaten",
+      "parentUuid": "3a50d1a3_798920ca",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_99866cb8",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-10-20T04:48:51Z",
       "side": 1,
       "message": "idem \n\n\u003cstring name\u003d\"insert_sd_card\" product\u003d\"default\" msgid\u003d\"1007630222084726808\"\u003e\"Een SD-kaart plaatsen\"\u003c/string\u003e",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_39587856",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-20T05:30:49Z",
+      "side": 1,
+      "message": "Dit is in het Engels gewijzigd",
+      "parentUuid": "3a50d1a3_99866cb8",
       "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_5955441b",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-20T05:30:49Z",
+      "side": 1,
+      "message": "Tja...\n\nEngels moet idd anders",
+      "parentUuid": "3a50d1a3_5990e4ec",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_597ea4af",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2013-10-20T04:48:51Z",
       "side": 1,
       "message": "Zie mijn opmerkingen hier, volgens mij is het Engels fout: http://review.cyanogenmod.org/#/c/51881/\n\nEn daarbij \"in call\" is iets anders dan actief gesprek toch? \"in call\" betekent intern, en niet over de luidspreker volgens mij.",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_f930d009",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-20T05:30:49Z",
+      "side": 1,
+      "message": "In call is \u0027tijdens gesprek\u0027 toch? Ik heb er maar actief van gemaakt, omdat een gesprek actief moet zijn als je m wilt kunnen opnemen.\n\n\u0027Ondersteund, maar niet indien gestart tijdens gesprek\u0027?",
+      "parentUuid": "3a50d1a3_597ea4af",
       "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_1936dc03",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-20T05:30:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a50d1a3_19681cf5",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_f9621016",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -98,6 +188,24 @@
       "writtenOn": "2013-10-20T04:48:51Z",
       "side": 1,
       "message": "- Opnemen\\u2026\n\nis ook genoeg toch?",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_b93a48e6",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-20T05:30:49Z",
+      "side": 1,
+      "message": "Tja, er is ook een string \u0027recording\u0027 met diezelfde inhoud en er staat \u0027recording_now\u0027...\n\nIk kan er ook niet veel van maken",
+      "parentUuid": "3a50d1a3_f9621016",
       "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
