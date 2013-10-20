@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_798920ca",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T04:48:51Z",
+      "side": 1,
+      "message": "Deze strings zijn van naam veranderd, was \"\u003cstring name\u003d\"insert_sd_card\" product\u003d\"nosdcard\" msgid\u003d\"4609407750669086933\"\u003e\"USB-opslag koppelen\"\u003c/string\u003e\"\n\nDoor dit nu in cm_strings te zetten, blijft de originele string bestaan, wat dus niet kan.",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_99866cb8",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T04:48:51Z",
+      "side": 1,
+      "message": "idem \n\n\u003cstring name\u003d\"insert_sd_card\" product\u003d\"default\" msgid\u003d\"1007630222084726808\"\u003e\"Een SD-kaart plaatsen\"\u003c/string\u003e",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_5990e4ec",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T04:48:51Z",
+      "side": 1,
+      "message": "+1 , maar er zit wel een foutje in het Engels\n\n\"Press\" moet in die engelse zin met een kleine p\n\nIn het Engels hebben ze soms bij bestaande strings ook punten (.) weggehaald en bij ander niet...logica?",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_597ea4af",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T04:48:51Z",
+      "side": 1,
+      "message": "Zie mijn opmerkingen hier, volgens mij is het Engels fout: http://review.cyanogenmod.org/#/c/51881/\n\nEn daarbij \"in call\" is iets anders dan actief gesprek toch? \"in call\" betekent intern, en niet over de luidspreker volgens mij.",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_19681cf5",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T04:48:51Z",
+      "side": 1,
+      "message": "het gaat om het AAC formaat, niet om AAC gesprekken\n\n- Gesprekken opnemen in AAC niet ondersteund",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_f9621016",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-20T04:48:51Z",
+      "side": 1,
+      "message": "- Opnemen\\u2026\n\nis ook genoeg toch?",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
