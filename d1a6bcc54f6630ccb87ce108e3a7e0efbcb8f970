@@ -16,6 +16,24 @@
       "revId": "d1a6bcc54f6630ccb87ce108e3a7e0efbcb8f970",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_1baa5b1a",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-10-24T23:37:03Z",
+      "side": 1,
+      "message": "Moet het dan niet zijn \"Niet tijdens gesprek ondersteund\"? Ook na het gesprek kan je het aanpassen...\nVerder is dit volgens mij wel de goede vertaling als ik naar de code van de originele patchset kijk: het \"probleem\" dat gerapporteerd moet worden is dat het tijdens een gesprek niet werkt (als ik het goed interpreteer).",
+      "parentUuid": "1a4dcd0f_bbec8790",
+      "revId": "d1a6bcc54f6630ccb87ce108e3a7e0efbcb8f970",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
