@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_bbec8790",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-10-24T22:12:36Z",
+      "side": 1,
+      "message": "Ik weet nog steeds niet zeker of dit wel goed is, maar ik kan in de app zelf dit niet tevoorschijn krijgen dus.....",
+      "revId": "d1a6bcc54f6630ccb87ce108e3a7e0efbcb8f970",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
