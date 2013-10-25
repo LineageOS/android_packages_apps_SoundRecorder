@@ -89,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_040afcd2",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-25T23:28:07Z",
+      "side": 1,
+      "message": "Was ich meinte war etwas anderes: Was genau soll diese Meldung sagen? Sie klingt wie eine Aufforderung, passt dann aber nicht dazu, dass die Meldung bei product\u003d\"default\" wie ein Hinweis klingt.",
+      "parentUuid": "1a4dcd0f_e45d90ed",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a4dcd0f_e44cb078",
         "filename": "res/values-de/cm_strings.xml",
         "patchSetId": 2
