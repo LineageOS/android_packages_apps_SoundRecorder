@@ -53,6 +53,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_4448045c",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-10-25T21:53:20Z",
+      "side": 1,
+      "message": "Ich denke es soll \"verbinden\" bzw. \"anschließen\" bedeuten.",
+      "parentUuid": "1a4dcd0f_0452fc13",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a4dcd0f_e44cb078",
         "filename": "res/values-de/cm_strings.xml",
         "patchSetId": 2
@@ -70,6 +88,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_04799c93",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-10-25T21:53:20Z",
+      "side": 1,
+      "message": "+1 für Drücken Sie",
+      "parentUuid": "1a4dcd0f_e44cb078",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a4dcd0f_4431e4eb",
         "filename": "res/values-de/cm_strings.xml",
         "patchSetId": 2
@@ -81,6 +117,24 @@
       "writtenOn": "2013-10-25T21:50:08Z",
       "side": 1,
       "message": "Drücken Sie / Berühren Sie",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_e47350b3",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-10-25T21:53:20Z",
+      "side": 1,
+      "message": "+1 für Drücken Sie",
+      "parentUuid": "1a4dcd0f_4431e4eb",
       "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
