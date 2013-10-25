@@ -33,6 +33,57 @@
       "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_0452fc13",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-25T21:50:08Z",
+      "side": 1,
+      "message": "Was genau soll \u0027einhängen\u0027 hier bedeuten?",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_e44cb078",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-25T21:50:08Z",
+      "side": 1,
+      "message": "Drücken Sie / Berühren Sie",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_4431e4eb",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-25T21:50:08Z",
+      "side": 1,
+      "message": "Drücken Sie / Berühren Sie",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
