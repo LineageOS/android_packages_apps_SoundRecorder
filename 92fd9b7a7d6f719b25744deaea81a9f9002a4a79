@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_2a9fbf60",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-26T23:42:48Z",
+      "side": 1,
+      "message": "Please undo the changes to strings.xml.\n\nAlthough it has been removed (or rather renamed) from(/in) English, translations weren\u0027t updated. That\u0027s why these strings should stay, to keep in sync with AOSP(/CAF).",
+      "revId": "92fd9b7a7d6f719b25744deaea81a9f9002a4a79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
