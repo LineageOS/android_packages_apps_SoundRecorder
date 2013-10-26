@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_afaf617c",
+        "filename": "res/values-hu/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2013-10-26T06:53:33Z",
+      "side": 1,
+      "message": "Ezt nem biztos, hogy értem.",
+      "parentUuid": "1a4dcd0f_c45c14f0",
+      "revId": "6a035fd8adf79c2fa10367cc8da41483b51b58bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a4dcd0f_6472e07e",
         "filename": "res/values-hu/cm_strings.xml",
         "patchSetId": 1
