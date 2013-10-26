@@ -338,6 +338,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_cf48ad8a",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-10-26T09:11:14Z",
+      "side": 1,
+      "message": "Is \"Aan het opnemen\" niet beter? \"Nu opnemen\" kan ook als opdracht klinken :-)",
+      "parentUuid": "3a50d1a3_7c134e5d",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_3c4b865b",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -366,6 +384,24 @@
       "writtenOn": "2013-10-21T06:35:44Z",
       "side": 1,
       "message": "Done",
+      "parentUuid": "3a50d1a3_3c4b865b",
+      "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_af43e16b",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-10-26T09:11:14Z",
+      "side": 1,
+      "message": "Persoonlijk vind ik verwijderd mooier dan weggegooid :-)",
       "parentUuid": "3a50d1a3_3c4b865b",
       "revId": "88a7e5946a8df71645c38478c3af9aaa9aea36a2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
