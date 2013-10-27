@@ -52,6 +52,23 @@
       "revId": "dc4755c9ffd406996db2e2b4350139affee1451e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_5573cc4d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-10-27T11:29:52Z",
+      "side": 1,
+      "message": "Is \"Aan het opnemen\" niet beter? \"Nu opnemen\" of \"Opnemen\" kan ook als opdracht klinken :-)",
+      "revId": "dc4755c9ffd406996db2e2b4350139affee1451e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
