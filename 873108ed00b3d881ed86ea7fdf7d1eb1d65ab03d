@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_baa47808",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-10-29T22:03:17Z",
+      "side": 1,
+      "message": "verwirrend, dass zwei Mal derselbe string Name referenziert wird. Ist hier im Original die Rede von USB oder wie product\u003dnosdcard andeutet, eine SD-Karte gemeint?\n\nEinhaengen ist die technische Uebersetzung von mount, verstaendlicher waere aktivieren oder verbinden.",
+      "revId": "873108ed00b3d881ed86ea7fdf7d1eb1d65ab03d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_daa944e1",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-10-29T22:03:17Z",
+      "side": 1,
+      "message": "das klingt sehr merkwuerdig",
+      "revId": "873108ed00b3d881ed86ea7fdf7d1eb1d65ab03d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_7aafd0e3",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-10-29T22:03:17Z",
+      "side": 1,
+      "message": "Sieht ebenfalls sehr seltsam aus. Der erste Teil ist die Beschreibung, was bei welchen Ziffern passiert? Wenn ja, sollte der Satz umgestellt werden und ein Absatz als Kennzeichnung verwendet werden.\n\nAnsonsten auch am Anfang Druecken Sie. :-)",
+      "revId": "873108ed00b3d881ed86ea7fdf7d1eb1d65ab03d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
