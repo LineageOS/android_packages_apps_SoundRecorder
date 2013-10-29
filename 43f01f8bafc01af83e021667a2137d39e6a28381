@@ -107,6 +107,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_07d0b952",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-10-29T10:50:22Z",
+      "side": 1,
+      "message": "Was uns die Meldung sagen soll weiß ich auch nicht, da ich die meisten Strings in meinem Soundrecorder nicht finde.",
+      "parentUuid": "1a4dcd0f_040afcd2",
+      "revId": "43f01f8bafc01af83e021667a2137d39e6a28381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a4dcd0f_e44cb078",
         "filename": "res/values-de/cm_strings.xml",
         "patchSetId": 2
