@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_1a948c35",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-10-30T07:22:16Z",
+      "side": 1,
+      "message": "Markus, ich habe das jetzt einfach mal so gelassen, da ich keine Ahnung habe, wie ich das angezeigt bekomme.",
+      "revId": "01a183eae2fbe1cb8961fccd965df6b255fc97aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
