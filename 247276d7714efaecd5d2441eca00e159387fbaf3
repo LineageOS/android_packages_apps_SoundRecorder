@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_dab864e8",
+        "filename": "res/values-cs/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2270
+      },
+      "writtenOn": "2013-10-30T05:48:42Z",
+      "side": 1,
+      "message": "Nepodporovaný formát",
+      "revId": "247276d7714efaecd5d2441eca00e159387fbaf3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
