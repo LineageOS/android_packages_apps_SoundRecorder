@@ -34,6 +34,24 @@
       "revId": "410e9b70191c333f85228f9674134098ca6cbdf2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_3d062221",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-31T09:43:55Z",
+      "side": 0,
+      "message": "AOSP uses \u0027insert_sd_card\u0027:\n\n- https://android.googlesource.com/platform/packages/apps/SoundRecorder/+/android-4.3_r2.1/res/values/strings.xml (line 36)\n- https://android.googlesource.com/platform/packages/apps/SoundRecorder/+/android-4.3_r2.1/res/values-es/strings.xml (line 27)\n\nYou removed sd_card_unavailable in all other languages, except Spanish where both sd_card_unavailable and insert_sd_card is being removed.",
+      "parentUuid": "1a4dcd0f_7d0caa42",
+      "revId": "410e9b70191c333f85228f9674134098ca6cbdf2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
