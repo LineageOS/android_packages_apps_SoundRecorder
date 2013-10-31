@@ -16,6 +16,24 @@
       "revId": "01a183eae2fbe1cb8961fccd965df6b255fc97aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_fd119ab0",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-31T03:30:02Z",
+      "side": 1,
+      "message": "Das wird - bei Geräten, die Surround-Aufnahme unterstützen - an der gleichen Stelle angezeigt wie press_record: Im oberen Teil des Fensters vor der Aufnahme.\n\n(IMHO sollten diese Strings allerdings _beide_ rausfliegen, da vollständig überflüssig)",
+      "parentUuid": "1a4dcd0f_1a948c35",
+      "revId": "01a183eae2fbe1cb8961fccd965df6b255fc97aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
