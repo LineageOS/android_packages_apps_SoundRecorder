@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_f3878bd5",
+        "filename": "res/values-it/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 3916
+      },
+      "writtenOn": "2013-11-02T00:15:32Z",
+      "side": 1,
+      "message": "Preferirei \"Registrazione chiamata\"",
+      "revId": "bac7ca14e821e06221ac78bea0f12c068dc34040",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_936de734",
+        "filename": "res/values-it/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 3916
+      },
+      "writtenOn": "2013-11-02T00:15:32Z",
+      "side": 1,
+      "message": "Sostituire ... con \\u2026 ?",
+      "revId": "bac7ca14e821e06221ac78bea0f12c068dc34040",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
