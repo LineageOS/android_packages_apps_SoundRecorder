@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_40f9c24c",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-11-05T10:42:32Z",
+      "side": 1,
+      "message": "Un enregistrement d\u0027appel est déjà en cours \u003d\u003e ?",
+      "revId": "d32b91df08acaf5572930c4cff19f58363a24b8d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_e09496e9",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-11-05T10:42:32Z",
+      "side": 1,
+      "message": "supportée \u003d\u003e disponible",
+      "revId": "d32b91df08acaf5572930c4cff19f58363a24b8d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
