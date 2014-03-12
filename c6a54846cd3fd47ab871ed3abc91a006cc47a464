@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_595c7225",
+        "filename": "res/values-nl/cm_caf.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-03-12T05:11:33Z",
+      "side": 1,
+      "message": "- Druk -\u003e Raak aan\n- \\\u0027Opnemen\\\u0027? Ik neem aan dat dat knopje met een hoofdletter begint",
+      "revId": "c6a54846cd3fd47ab871ed3abc91a006cc47a464",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_b9413e3c",
+        "filename": "res/values-nl/cm_caf.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-03-12T05:11:33Z",
+      "side": 1,
+      "message": "in gesprek?",
+      "revId": "c6a54846cd3fd47ab871ed3abc91a006cc47a464",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_993efab6",
+        "filename": "res/values-nl/cm_caf.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-03-12T05:11:33Z",
+      "side": 1,
+      "message": "Als het \u0027in gesprek\u0027 wordt, deze ook veranderen aub.",
+      "revId": "c6a54846cd3fd47ab871ed3abc91a006cc47a464",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
