@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_03a0a99e",
+        "filename": "res/values-da/cm_caf.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-03-25T14:43:10Z",
+      "side": 1,
+      "message": "some of these strings have been removed, please repo sync to get the latest code\n\nhttp://review.cyanogenmod.org/#/c/60840/",
+      "revId": "3b2be2045d165b186c78fa3206e2efe200f1e345",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
