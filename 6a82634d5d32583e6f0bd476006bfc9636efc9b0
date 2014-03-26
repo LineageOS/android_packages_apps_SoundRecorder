@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_79120464",
+        "filename": "res/values-da/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2809
+      },
+      "writtenOn": "2014-03-26T19:28:19Z",
+      "side": 1,
+      "message": "It should be \"Denne indstilling\" not \"Denne indstillinger\"... remove the \"er\".",
+      "revId": "6a82634d5d32583e6f0bd476006bfc9636efc9b0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
