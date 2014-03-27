@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_9c6a5619",
+        "filename": "res/values-pt-rBR/cm_caf.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-03-27T06:14:15Z",
+      "side": 1,
+      "message": "\u003cresources xmlns:xliff\u003d\"urn:oasis:names:tc:xliff:document:1.2\"\u003e",
+      "revId": "1e71aab6225c77f55e6a3e6996e24852e02cb8f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
