@@ -16,6 +16,24 @@
       "revId": "1c52e9115458936c751aa17dd218b1bfa65190e1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_4c3e78b9",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 864,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-08-23T10:08:21Z",
+      "side": 1,
+      "message": "wtf, we should probably fix this for real.",
+      "parentUuid": "7a1b2928_8c31b0ef",
+      "revId": "1c52e9115458936c751aa17dd218b1bfa65190e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
