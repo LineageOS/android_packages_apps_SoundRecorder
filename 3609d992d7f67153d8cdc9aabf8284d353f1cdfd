@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_700a12d4",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 867,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-02-26T16:12:03Z",
+      "side": 1,
+      "message": "If I understood well, this menu item is used to open and select audio records to open inside app. What currently does this path is open the audio records with others apps (never with a file manager). The action view with the type audio/* will trigger all audio apps but not file managers, and specially no picker activities.\n\nIHMO, there are two options here:\n\n1.- Trigger Documents app:\n\nIntent intent \u003d new Intent(Intent.ACTION_GET_CONTENT);\nintent.setData(startDir);\nintent.setType(\"audio/*\");\nintent.putExtra(Intent.EXTRA_MIME_TYPES, new String[]{\"audio/amr\", \"audio/3gpp\", \"audio/wav\"});\n\n2.- Trigger a picker activity (usually a file manager)\n\nIntent intent \u003d new Intent(Intent.ACTION_PICKER);\nintent.setData(startDir);\nintent.putExtra(Intent.EXTRA_MIME_TYPES, new String[]{\"audio/amr\", \"audio/3gpp\", \"audio/wav\"});\n\nPlease, use Intent.EXTRA_MIME_TYPES to pass exclusivelly the mime types supported by this app.\n\nAfter this the call should be startActivtyForResult and catch and load the result for the invocation.\n\n\nYou MUST catch ActivityNotFoundException to display an advise in case the system doesn\u0027t resolve the intent.",
+      "revId": "3609d992d7f67153d8cdc9aabf8284d353f1cdfd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
