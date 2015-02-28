@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_cd727dad",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 18
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-02-28T09:11:59Z",
+      "side": 1,
+      "message": "Remove. We don\u0027t need a special chooser for this",
+      "revId": "b3ca7dbd5121c282b4af1f19185bdbf29cf9f93b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_4d5fad0e",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 817,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-02-28T09:11:59Z",
+      "side": 1,
+      "message": "Remove the item is better from a UX point of view\n\n        // Remove view recordings if there isn\u0027t an activity that can handle it\n        Uri startDir \u003d Uri.fromFile(new File(Environment.getExternalStorageDirectory()));\n        Intent intent \u003d new Intent(Intent.ACTION_VIEW);\n        intent.setDataAndType(startDir, \"resource/folder\");\n        final PackageManager packageManager \u003d ctx.getPackageManager();\n        List\u003cResolveInfo\u003e info \u003d packageManager.queryIntentActivities(intent, 0);\n        if (info.size() \u003d\u003d 0) {\n            menu.removeItem(R.id.menu_item_view_recordings);\n        }",
+      "revId": "b3ca7dbd5121c282b4af1f19185bdbf29cf9f93b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_0d65b5e0",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 884,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-02-28T09:11:59Z",
+      "side": 1,
+      "message": "Please simplify this block to:\n\n    try {\n        Uri startDir \u003d Uri.fromFile(new File(mStoragePath));\n        Intent intent \u003d new Intent(Intent.ACTION_VIEW);\n        intent.setDataAndType(startDir, \"resource/folder\");\n        startActivity(intent);\n   } catch (NotActivityFoundException) {\n        // Ignore. This shouldn\u0027t happen. we have checked previously.\n   }",
+      "revId": "b3ca7dbd5121c282b4af1f19185bdbf29cf9f93b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_2d6879ba",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 18
+      },
+      "lineNbr": 1606,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2015-02-28T09:11:59Z",
+      "side": 1,
+      "message": "Not need it",
+      "revId": "b3ca7dbd5121c282b4af1f19185bdbf29cf9f93b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
