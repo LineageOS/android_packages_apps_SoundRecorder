@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_9f670b25",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 454,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2015-03-18T14:47:14Z",
+      "side": 1,
+      "message": "this call overrides your handler override below that actually handles the different what cases, but even after fixing this I get \"Internal application error\"",
+      "revId": "e97eccc2d4852c4cc2b1d8dc4c8be0618ace7515",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
