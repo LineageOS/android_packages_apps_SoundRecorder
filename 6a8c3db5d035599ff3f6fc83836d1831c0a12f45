@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_bfb927ef",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 567,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-03-18T11:04:20Z",
+      "side": 1,
+      "message": "return here",
+      "revId": "6a8c3db5d035599ff3f6fc83836d1831c0a12f45",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_dfb863e8",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 992,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-03-18T11:04:20Z",
+      "side": 1,
+      "message": "unnecessary",
+      "revId": "6a8c3db5d035599ff3f6fc83836d1831c0a12f45",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
