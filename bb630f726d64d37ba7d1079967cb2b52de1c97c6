@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da7fb54a_b8f2ff98",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 407,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2015-05-01T07:24:09Z",
+      "side": 1,
+      "message": "Proposal of consolidation:\n\nmExitAfterRecord \u003d i.getBooleanExtra(EXIT_AFTER_RECORD, Intent.ACTION_GET_CONTENT.equals(i.getAction()));",
+      "revId": "bb630f726d64d37ba7d1079967cb2b52de1c97c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
