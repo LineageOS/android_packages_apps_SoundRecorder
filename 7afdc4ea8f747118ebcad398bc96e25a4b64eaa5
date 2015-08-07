@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "9f0e0f27_d649b560",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 418,
+      "author": {
+        "id": 10394
+      },
+      "writtenOn": "2015-08-07T23:42:07Z",
+      "side": 1,
+      "message": "any reason why we only check against requested type of 1 and 2 channel but not 6 channels as well?",
+      "revId": "7afdc4ea8f747118ebcad398bc96e25a4b64eaa5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f0e0f27_63e6adeb",
         "filename": "src/com/android/soundrecorder/SoundRecorder.java",
         "patchSetId": 2
