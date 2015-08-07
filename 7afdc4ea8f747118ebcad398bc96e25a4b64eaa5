@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f0e0f27_63e6adeb",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 419,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-08-07T18:38:02Z",
+      "side": 1,
+      "message": "Brace should stay in the previous line",
+      "range": {
+        "startLine": 418,
+        "startChar": 52,
+        "endLine": 419,
+        "endChar": 7
+      },
+      "revId": "7afdc4ea8f747118ebcad398bc96e25a4b64eaa5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
