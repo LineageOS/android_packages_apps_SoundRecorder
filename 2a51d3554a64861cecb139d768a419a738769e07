@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_95c1e431",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1769,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-09-30T22:07:02Z",
+      "side": 1,
+      "message": "maybe move this check to the beginning of the boolean expression to short-circuit the rest of the checks ? wouldn\u0027t have to evaluate the rest of the properties for non-primary storage volumes.",
+      "range": {
+        "startLine": 1769,
+        "startChar": 76,
+        "endLine": 1769,
+        "endChar": 98
+      },
+      "revId": "2a51d3554a64861cecb139d768a419a738769e07",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
