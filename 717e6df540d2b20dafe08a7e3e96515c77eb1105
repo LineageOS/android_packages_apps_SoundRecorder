@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f96bb07_413f14d6",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 605,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-12-09T04:21:20Z",
+      "side": 1,
+      "message": "You\u0027re requesting 3 different permissions and you\u0027re just checking if the first index is granted, that seems wrong",
+      "revId": "717e6df540d2b20dafe08a7e3e96515c77eb1105",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_01210cb5",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 658,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-12-09T04:21:20Z",
+      "side": 1,
+      "message": "you need to break.",
+      "revId": "717e6df540d2b20dafe08a7e3e96515c77eb1105",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_a12db8a9",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 952,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-12-09T04:21:20Z",
+      "side": 1,
+      "message": "why was this changed?",
+      "revId": "717e6df540d2b20dafe08a7e3e96515c77eb1105",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
