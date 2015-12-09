@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f96bb07_8150bc34",
+        "filename": "res/layout/main.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Could add \"Copyright (C) 2015 The CyanogenMod Project\"",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_21452871",
+        "filename": "res/values/cm_colors.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Should be 2014-2015",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_e15e6044",
+        "filename": "res/values/cm_dimens.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Can be updated to 2014-2015",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_c155641f",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Could add \"Copyright (C) 2015 The CyanogenMod Project\"",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_61301009",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Same",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_e123c0bd",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 365,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "3 spaces instead of 4",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_213a08e7",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 366,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Actually the indent were all wrong, the cases, then the content are +2.",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_6119f086",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 647,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Should be a double indent",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_811e7c6e",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 650,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Same",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_2113e868",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 765,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Same",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_41187480",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 776,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Same",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f96bb07_e10c2044",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 814,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2015-12-09T04:27:01Z",
+      "side": 1,
+      "message": "Just the one.",
+      "revId": "48c3483b129a4f47310571cdc26b912794a7de03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
