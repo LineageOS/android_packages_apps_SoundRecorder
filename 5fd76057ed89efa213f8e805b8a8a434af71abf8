@@ -1,0 +1,136 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_c4b536f0",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-31T15:38:29Z",
+      "side": 1,
+      "message": "Recording stopped",
+      "range": {
+        "startLine": 73,
+        "startChar": 46,
+        "endLine": 73,
+        "endChar": 63
+      },
+      "revId": "5fd76057ed89efa213f8e805b8a8a434af71abf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_04a10eaa",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 385,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-31T15:38:29Z",
+      "side": 1,
+      "message": "stop",
+      "range": {
+        "startLine": 385,
+        "startChar": 24,
+        "endLine": 385,
+        "endChar": 29
+      },
+      "revId": "5fd76057ed89efa213f8e805b8a8a434af71abf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_e4bab2dc",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 811,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-31T15:38:29Z",
+      "side": 1,
+      "message": "stop",
+      "range": {
+        "startLine": 811,
+        "startChar": 17,
+        "endLine": 811,
+        "endChar": 22
+      },
+      "revId": "5fd76057ed89efa213f8e805b8a8a434af71abf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_84cf3e7e",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 820,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-31T15:38:29Z",
+      "side": 1,
+      "message": "stopped",
+      "range": {
+        "startLine": 820,
+        "startChar": 46,
+        "endLine": 820,
+        "endChar": 52
+      },
+      "revId": "5fd76057ed89efa213f8e805b8a8a434af71abf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_a4ccba89",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 822,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-31T15:38:29Z",
+      "side": 1,
+      "message": "indentation",
+      "range": {
+        "startLine": 822,
+        "startChar": 12,
+        "endLine": 822,
+        "endChar": 16
+      },
+      "revId": "5fd76057ed89efa213f8e805b8a8a434af71abf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_64c6c26a",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 1991,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-31T15:38:29Z",
+      "side": 1,
+      "message": "Indentation here and all below",
+      "revId": "5fd76057ed89efa213f8e805b8a8a434af71abf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
