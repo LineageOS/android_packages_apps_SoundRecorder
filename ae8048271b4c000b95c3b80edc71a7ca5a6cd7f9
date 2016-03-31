@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_247e8ae4",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 381,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-03-31T17:05:29Z",
+      "side": 0,
+      "message": "No need to remove the newline",
+      "revId": "ae8048271b4c000b95c3b80edc71a7ca5a6cd7f9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
