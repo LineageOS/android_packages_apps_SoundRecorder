@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_9eabba87",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 736,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2016-05-26T17:53:03Z",
+      "side": 0,
+      "message": "This evil thing throws all old view away and create new one.\nI don\u0027t understand why it is needed. Comment out the entire onConfigurationChanged function solve the problem also. But the timer text will become slightly bigger in landscape mode compare to previous one. Not sure why, since it is same R.layout.main as in onCreate().",
+      "revId": "c5faea1143102b04ab306e03fb003738bc0c80e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
