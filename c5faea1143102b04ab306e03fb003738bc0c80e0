@@ -34,6 +34,24 @@
       "revId": "c5faea1143102b04ab306e03fb003738bc0c80e0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_22b5a9cd",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 736,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2016-06-09T19:35:17Z",
+      "side": 0,
+      "message": "Yes, remove that line works, but the font size is different with/without setContentView again here. Don\u0027t know why. We don\u0027t have orientation specific layout in this app.",
+      "parentUuid": "5faad753_829c9d6a",
+      "revId": "c5faea1143102b04ab306e03fb003738bc0c80e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
