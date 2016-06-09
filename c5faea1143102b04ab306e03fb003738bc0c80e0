@@ -16,6 +16,24 @@
       "revId": "c5faea1143102b04ab306e03fb003738bc0c80e0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_829c9d6a",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 736,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-06-09T19:23:17Z",
+      "side": 0,
+      "message": "setContentView should only be set in onCreate really. That might be the issue itself.",
+      "parentUuid": "5faad753_9eabba87",
+      "revId": "c5faea1143102b04ab306e03fb003738bc0c80e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
