@@ -52,6 +52,24 @@
       "revId": "c5faea1143102b04ab306e03fb003738bc0c80e0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_82c33d38",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 736,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-06-09T19:36:19Z",
+      "side": 0,
+      "message": "Well, we should fix it by doing that. Otherwise, everything else is just bandaids.",
+      "parentUuid": "5faad753_22b5a9cd",
+      "revId": "c5faea1143102b04ab306e03fb003738bc0c80e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
