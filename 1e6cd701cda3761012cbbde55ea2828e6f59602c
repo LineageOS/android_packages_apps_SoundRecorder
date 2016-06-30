@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_aeb7d83a",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 369,
+      "author": {
+        "id": 14090
+      },
+      "writtenOn": "2016-06-30T19:53:10Z",
+      "side": 1,
+      "message": "Yeah, I just wanted an easy way to do that if we wanted.",
+      "parentUuid": "3fa7e38b_ce5fb40c",
+      "range": {
+        "startLine": 369,
+        "startChar": 27,
+        "endLine": 369,
+        "endChar": 54
+      },
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_0e662cef",
         "filename": "src/com/android/soundrecorder/SoundRecorder.java",
         "patchSetId": 3
@@ -36,6 +60,24 @@
       "writtenOn": "2016-06-30T19:26:53Z",
       "side": 1,
       "message": "if (BLUETOOTH_RECORDING_ENABLED)",
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_0e94ec8a",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 496,
+      "author": {
+        "id": 14090
+      },
+      "writtenOn": "2016-06-30T19:53:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3fa7e38b_0e662cef",
       "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -59,6 +101,24 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_2e7d286e",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 555,
+      "author": {
+        "id": 14090
+      },
+      "writtenOn": "2016-06-30T19:53:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3fa7e38b_2ea44808",
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_8e9f7cb3",
         "filename": "src/com/android/soundrecorder/SoundRecorder.java",
         "patchSetId": 3
@@ -70,6 +130,24 @@
       "writtenOn": "2016-06-30T19:29:22Z",
       "side": 1,
       "message": "spacc",
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_4e82e451",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 557,
+      "author": {
+        "id": 14090
+      },
+      "writtenOn": "2016-06-30T19:53:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3fa7e38b_8e9f7cb3",
       "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -93,6 +171,24 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_ee963095",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 558,
+      "author": {
+        "id": 14090
+      },
+      "writtenOn": "2016-06-30T19:53:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3fa7e38b_6e9a40c6",
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_eeadd0ea",
         "filename": "src/com/android/soundrecorder/SoundRecorder.java",
         "patchSetId": 3
@@ -104,6 +200,30 @@
       "writtenOn": "2016-06-30T19:29:48Z",
       "side": 1,
       "message": "are you setting these args to something else elsewhere? you\u0027re sending in mBluetoothScoPendingRecordArg1 and mBluetoothScoPendingRecordArg2 in the handler, so it will just set it to itself?",
+      "range": {
+        "startLine": 559,
+        "startChar": 32,
+        "endLine": 559,
+        "endChar": 62
+      },
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_8e88dc71",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 559,
+      "author": {
+        "id": 14090
+      },
+      "writtenOn": "2016-06-30T19:53:10Z",
+      "side": 1,
+      "message": "We  bailing out early here if we need to setup up a Bluetooth connection. When the connection is ready onBluetoothScoStateChanged dispatches these two as arg1, arg2 and cmd START_RECORDING_WITH_BT and the flow just picks up from the end of this block. \n\nAnother way would have been to wait() here until onBluetoothScoStateChanged calls notify() and handle the timeout on the ui thread.\n\nonBluetoothScoStateChanged() is called from a broadcast receiver and runs on the UI thread (I think).",
+      "parentUuid": "3fa7e38b_eeadd0ea",
       "range": {
         "startLine": 559,
         "startChar": 32,
