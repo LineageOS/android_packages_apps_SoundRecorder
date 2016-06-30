@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_0e662cef",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 496,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2016-06-30T19:26:53Z",
+      "side": 1,
+      "message": "if (BLUETOOTH_RECORDING_ENABLED)",
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
