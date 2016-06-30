@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "3fa7e38b_ce5fb40c",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 369,
+      "author": {
+        "id": 9045
+      },
+      "writtenOn": "2016-06-30T19:29:48Z",
+      "side": 1,
+      "message": "overlay option perhaps?",
+      "range": {
+        "startLine": 369,
+        "startChar": 27,
+        "endLine": 369,
+        "endChar": 54
+      },
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_0e662cef",
         "filename": "src/com/android/soundrecorder/SoundRecorder.java",
         "patchSetId": 3
@@ -64,6 +87,29 @@
       "writtenOn": "2016-06-30T19:29:22Z",
       "side": 1,
       "message": "tab",
+      "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_eeadd0ea",
+        "filename": "src/com/android/soundrecorder/SoundRecorder.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 559,
+      "author": {
+        "id": 9045
+      },
+      "writtenOn": "2016-06-30T19:29:48Z",
+      "side": 1,
+      "message": "are you setting these args to something else elsewhere? you\u0027re sending in mBluetoothScoPendingRecordArg1 and mBluetoothScoPendingRecordArg2 in the handler, so it will just set it to itself?",
+      "range": {
+        "startLine": 559,
+        "startChar": 32,
+        "endLine": 559,
+        "endChar": 62
+      },
       "revId": "1e6cd701cda3761012cbbde55ea2828e6f59602c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
