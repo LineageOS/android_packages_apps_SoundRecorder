@@ -27,6 +27,7 @@
   <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
   <string name="error_mediadb_aacincall">Înregistrarea AAC a apelului vocal nu este suportată.</string>
   <!-- shown as the toast text when storage is fallback from external to internal -->
+  <string name="storage_fallback">Revenire la locația de stocare internă</string>
   <!-- shown as the dialog title when user selects recording format -->
   <string name="format_setting">Tipul fișierului</string>
   <string name="storage_setting">Localizarea stocării</string>
@@ -56,8 +57,16 @@
   <string name="error_storage_access" product="default">Nu se poate accesa cardul SD. Verificați dacă Înregistrare voce are permisiunea de a accesa stocarea</string>
   <string name="in_call_record_error">Înregistrarea nu este permisă în timpul unui apel.</string>
   <string name="button_menu">Mai multe opțiuni</string>
+  <string name="notification_bg_title">Se înregistrează audio</string>
+  <string name="notification_bg_content">Înregistrare Sunet înregistrează\u2026</string>
+  <string name="notification_stopped_title">Înregistrare oprită</string>
+  <string name="notification_stopped_content">Întreruptă de un apel sau de muzică</string>
   <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
+  <string name="bt_using_headset">Se utilizează setul cu cască bluetooth</string>
   <!-- shown as a toast when initiating a connection to a bluetooth headset -->
+  <string name="bt_headset_connecting">Conectare la setul cu cască</string>
   <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
+  <string name="bt_headset_disconnected">Conexiune Bluetooth pierdută</string>
   <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
+  <string name="bt_headset_timeout">Conexiune Bluetooth expirată</string>
 </resources>
