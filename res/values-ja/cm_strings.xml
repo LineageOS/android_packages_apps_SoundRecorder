@@ -58,7 +58,7 @@
   <string name="in_call_record_error">通話中の録音は許可されていません。</string>
   <string name="button_menu">その他のオプション</string>
   <string name="notification_bg_title">録音中</string>
-  <string name="notification_bg_content">音声レコーダーは録音中です\u2026</string>
+  <string name="notification_bg_content">音声レコーダーは録音中です...</string>
   <string name="notification_stopped_title">録音を停止しました</string>
   <string name="notification_stopped_content">通話または音楽によって中断されました</string>
   <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
