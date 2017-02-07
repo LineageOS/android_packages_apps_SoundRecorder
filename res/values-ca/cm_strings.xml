@@ -40,13 +40,13 @@
   <string name="view_recordings">Veure gravacions</string>
   <!-- Permissions feedback -->
   <string name="denied_title">Permisos</string>
-  <string name="perm_mic">L\'enregistrador de sons necessita accés al micròfon per enregistrar so.</string>
-  <string name="perm_storage">L\'enregistrador de sons necessita accés a l\'emmagatzematge per desar els fitxers enregistrats.</string>
-  <string name="perm_phone">L\'enregistrador de sons necessita accedir a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
-  <string name="perm_micstorage">L\'enregistrador de sons necessita accés al micròfon per enregistrar so i accés a l\'emmagatzematge per desar els fitxers enregistrats.</string>
-  <string name="perm_micphone">L\'enregistrador de sons necessita accés al micròfon per enregistrar so i accés a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
-  <string name="perm_storagephone">L\'enregistrador de sons necessita accés a l\'emmagatzematge per desar els fitxers enregistrats i accés a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
-  <string name="perm_allperms">L\'enregistrador de sons necessita accés al micròfon per enregistrar so, accés a l\'emmagatzematge per desar els fitxers enregistrats i accés a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
+  <string name="perm_mic">La gravadora de sons necessita accés al micròfon per enregistrar so.</string>
+  <string name="perm_storage">La gravadora de sons necessita accés a l\'emmagatzematge per desar els fitxers enregistrats.</string>
+  <string name="perm_phone">La gravadora de sons necessita accedir a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
+  <string name="perm_micstorage">La gravadora de sons necessita accés al micròfon per enregistrar so i accés a l\'emmagatzematge per desar els fitxers enregistrats.</string>
+  <string name="perm_micphone">La gravadora de sons necessita accés al micròfon per enregistrar so i accés a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
+  <string name="perm_storagephone">La gravadora de sons necessita accés a l\'emmagatzematge per desar els fitxers enregistrats i accés a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
+  <string name="perm_allperms">La gravadora de sons necessita accés al micròfon per enregistrar so, accés a l\'emmagatzematge per desar els fitxers enregistrats i accés a l\'estat del telèfon per evitar que aquesta aplicació enregistri mentre estàs trucant.</string>
   <string name="perm_unknown">Error de permisos, comprova l\'estat del permís en l\'aplicació Configuració.</string>
   <string name="ask_again">Torna a preguntar</string>
   <string name="dismiss">Descarta</string>
