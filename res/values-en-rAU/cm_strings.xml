@@ -27,6 +27,7 @@
   <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
   <string name="error_mediadb_aacincall">AAC voice call recording is not supported.</string>
   <!-- shown as the toast text when storage is fallback from external to internal -->
+  <string name="storage_fallback">Reverting to internal storage location</string>
   <!-- shown as the dialog title when user selects recording format -->
   <string name="format_setting">File type</string>
   <string name="storage_setting">Storage location</string>
@@ -38,10 +39,34 @@
   <string name="error_app_internal_recorder">Internal application error.\n\nMicrophone may be in use.</string>
   <string name="view_recordings">View recordings</string>
   <!-- Permissions feedback -->
+  <string name="denied_title">Permissions</string>
+  <string name="perm_mic">Sound Recorder needs microphone access to record audio.</string>
+  <string name="perm_storage">Sound Recorder needs storage access to save recorded files.</string>
+  <string name="perm_phone">Sound Recorder needs phone status access to prevent this app from recording while you\'re calling.</string>
+  <string name="perm_micstorage">Sound Recorder needs microphone access to record audio and storage access to save recorded files.</string>
+  <string name="perm_micphone">Sound Recorder needs microphone access to record audio and phone status access to prevent this app from recording while you\'re calling.</string>
+  <string name="perm_storagephone">Sound Recorder needs storage access to save recorded files and phone status access to prevent this app from recording while you\'re calling.</string>
+  <string name="perm_allperms">Sound Recorder needs microphone access to record audio, storage access to save recorded files and phone status access to prevent this app from recording while you\'re calling.</string>
+  <string name="perm_unknown">Permission error, check permission status in Settings app.</string>
+  <string name="ask_again">Ask again</string>
+  <string name="dismiss">Dismiss</string>
+  <string name="perm_toast">Required permissions were denied, enable them from Settings app to start recording</string>
   <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
+  <string name="error_storage_access" product="nosdcard">Can\'t access USB storage. Make sure Sound Recorder has permission to access the storage</string>
   <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
+  <string name="error_storage_access" product="default">Can\'t access SD card. Make sure Sound Recorder has permission to access the storage</string>
+  <string name="in_call_record_error">Recording is not allowed during a call.</string>
+  <string name="button_menu">More options</string>
+  <string name="notification_bg_title">Recording audio</string>
+  <string name="notification_bg_content">Sound Recorder is recording\u2026</string>
+  <string name="notification_stopped_title">Recording stopped</string>
+  <string name="notification_stopped_content">Interrupted by call or music</string>
   <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
+  <string name="bt_using_headset">Using bluetooth headset</string>
   <!-- shown as a toast when initiating a connection to a bluetooth headset -->
+  <string name="bt_headset_connecting">Connecting to headset</string>
   <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
+  <string name="bt_headset_disconnected">Bluetooth connection lost</string>
   <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
+  <string name="bt_headset_timeout">Bluetooth connection timeout</string>
 </resources>

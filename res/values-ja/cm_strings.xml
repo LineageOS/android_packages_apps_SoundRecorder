@@ -31,8 +31,8 @@
   <!-- shown as the dialog title when user selects recording format -->
   <string name="format_setting">ファイル形式</string>
   <string name="storage_setting">ストレージの場所</string>
-  <string name="storage_setting_local_item">携帯電話のストレージ</string>
-  <string name="no_phonestorage">携帯電話のストレージがマウントされていません</string>
+  <string name="storage_setting_local_item">端末のストレージ</string>
+  <string name="no_phonestorage">端末のストレージがマウントされていません</string>
   <string name="keyboard">キーボード</string>
   <string name="file_deleted">ファイルが削除されました</string>
   <!-- shown as the message in a dialog when the app encountered an internal error while trying to start recording -->
@@ -42,11 +42,11 @@
   <string name="denied_title">権限</string>
   <string name="perm_mic">音声レコーダーは音声を録音するためにマイクへのアクセスを必要とします。</string>
   <string name="perm_storage">音声レコーダーは録音したファイルを保存するためにストレージへのアクセスを必要とします。</string>
-  <string name="perm_phone">音声レコーダーは通話中に録音を停止するために携帯電話の状態へのアクセスが必要です。</string>
+  <string name="perm_phone">音声レコーダーは通話中に録音を停止するために端末の状態へのアクセスが必要です。</string>
   <string name="perm_micstorage">音声レコーダーは音声を録音するためにマイクへのアクセスと、録音したファイルを保存するためにストレージへのアクセスを必要とします。</string>
-  <string name="perm_micphone">音声レコーダーは音声を録音するためにマイクへのアクセスと、通話中に録音を停止するために携帯電話の状態へのアクセスを必要とします。</string>
-  <string name="perm_storagephone">音声レコーダーは録音したファイルを保存するためにストレージへのアクセスと、通話中に録音を停止するために携帯電話の状態へのアクセスを必要とします。</string>
-  <string name="perm_allperms">音声レコーダーは音声を録音するためにマイクへのアクセス、録音したファイルを保存するためにストレージへのアクセス、通話中に録音を停止するために携帯電話の状態へのアクセスを必要とします。</string>
+  <string name="perm_micphone">音声レコーダーは音声を録音するためにマイクへのアクセスと、通話中に録音を停止するために端末の状態へのアクセスを必要とします。</string>
+  <string name="perm_storagephone">音声レコーダーは録音したファイルを保存するためにストレージへのアクセスと、通話中に録音を停止するために端末の状態へのアクセスを必要とします。</string>
+  <string name="perm_allperms">音声レコーダーは音声を録音するためにマイクへのアクセス、録音したファイルを保存するためにストレージへのアクセス、通話中に録音を停止するために端末の状態へのアクセスを必要とします。</string>
   <string name="perm_unknown">権限エラーが発生しました、設定アプリで権限の状態を確認してください。</string>
   <string name="ask_again">次回も確認する</string>
   <string name="dismiss">閉じる</string>

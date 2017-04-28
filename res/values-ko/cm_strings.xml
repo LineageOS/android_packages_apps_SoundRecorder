@@ -27,6 +27,7 @@
   <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
   <string name="error_mediadb_aacincall">AAC 음성통화 녹음은 지원되지 않습니다.</string>
   <!-- shown as the toast text when storage is fallback from external to internal -->
+  <string name="storage_fallback">내부 저장소 위치로 되돌리는 중</string>
   <!-- shown as the dialog title when user selects recording format -->
   <string name="format_setting">파일 형식</string>
   <string name="storage_setting">저장 위치</string>
@@ -59,8 +60,13 @@
   <string name="notification_bg_title">오디오 녹음 중</string>
   <string name="notification_bg_content">Sound Recorder가 녹음중입니다\u2026</string>
   <string name="notification_stopped_title">녹음 중지됨</string>
+  <string name="notification_stopped_content">통화 또는 음악에 의해 중단</string>
   <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
+  <string name="bt_using_headset">블루투스 헤드셋 사용</string>
   <!-- shown as a toast when initiating a connection to a bluetooth headset -->
+  <string name="bt_headset_connecting">헤드셋에 연결 중</string>
   <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
+  <string name="bt_headset_disconnected">블루투스 연결 끊김</string>
   <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
+  <string name="bt_headset_timeout">블루투스 연결 시간 초과</string>
 </resources>
