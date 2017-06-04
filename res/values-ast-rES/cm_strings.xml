@@ -40,6 +40,7 @@
   <string name="view_recordings">Ver grabaciones</string>
   <!-- Permissions feedback -->
   <string name="denied_title">Permisos</string>
+  <string name="perm_storage">La grabadora de soníos precisa l\'accesu al almacenamientu pa guardar ficheros grabaos.</string>
   <string name="ask_again">Entrugar de nueves</string>
   <string name="dismiss">Escartar</string>
   <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
