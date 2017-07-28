@@ -31,6 +31,7 @@
   <!-- label shown when there is no sd card available to record to -->
   <!-- label shown when there is more than 1 minute but less than 9 minutes of space left to record -->
   <!-- label shown when there is less than 1 minute of space left to record -->
+  <string name="sec_available"><xliff:g id="SECONDS">%d</xliff:g>s disponibles</string>
   <!-- button to accept the current recording and return it to the caller -->
   <string name="accept">Fecho</string>
   <!-- button to discard the current recording and return to the caller -->

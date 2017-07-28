@@ -21,10 +21,11 @@
   <!-- Label shown when recording is finished -->
   <string name="recording_finished">Regjistrimi mbaroi</string>
   <!-- shown as the message in a dialog when the app encountered and unsupported format -->
+  <string name="error_app_unsupported">Format i papranueshëm.</string>
   <!-- shown as the message in a dialog when the recording cannot be started while in call -->
   <string name="error_mediadb_incall">Ky opsion nuk është i disponueshëm gjatë një telefonate.</string>
   <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
-  <string name="error_mediadb_aacincall">Regjistrimi i thirrjeve zanore në formatin AAC nuk është i suportuar.</string>
+  <string name="error_mediadb_aacincall">Regjistrimi i thirrjeve zanore në formatin AAC nuk është i pranueshëm.</string>
   <!-- shown as the toast text when storage is fallback from external to internal -->
   <string name="storage_fallback">Duke u rikthyer në vendndodhjen e memories së brendshme</string>
   <!-- shown as the dialog title when user selects recording format -->

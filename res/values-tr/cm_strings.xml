@@ -25,12 +25,12 @@
   <!-- shown as the message in a dialog when the recording cannot be started while in call -->
   <string name="error_mediadb_incall">Arama sırasında bu seçenek desteklenmiyor.</string>
   <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
-  <string name="error_mediadb_aacincall">AAC ses çağrısı kaydı desteklenmiyor.</string>
+  <string name="error_mediadb_aacincall">AAC ses araması kaydı desteklenmiyor.</string>
   <!-- shown as the toast text when storage is fallback from external to internal -->
   <string name="storage_fallback">Dahili depolama konumuna geri dönülüyor</string>
   <!-- shown as the dialog title when user selects recording format -->
   <string name="format_setting">Dosya türü</string>
-  <string name="storage_setting">Depolama yeri</string>
+  <string name="storage_setting">Depolama konumu</string>
   <string name="storage_setting_local_item">Telefon hafızası</string>
   <string name="no_phonestorage">Telefon hafızası ayrılmış</string>
   <string name="keyboard">Klavye</string>
