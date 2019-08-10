@@ -16,19 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label shown when recording is paused -->
-  <!-- Label shown when recording is finished -->
-  <!-- shown as the message in a dialog when the app encountered and unsupported format -->
-  <!-- shown as the message in a dialog when the recording cannot be started while in call -->
-  <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
-  <!-- shown as the toast text when storage is fallback from external to internal -->
-  <!-- shown as the dialog title when user selects recording format -->
-  <!-- shown as the message in a dialog when the app encountered an internal error while trying to start recording -->
-  <!-- Permissions feedback -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
-  <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
-  <!-- shown as a toast when initiating a connection to a bluetooth headset -->
-  <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
-  <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
+    <string name="recording_paused">Wedi seibio</string>
+    <string name="recording_finished">Wedi gorffen recordio</string>
+    <string name="error_app_unsupported">Fformat anghydnaws.</string>
+    <string name="error_mediadb_incall">Ni chefnogir yr opsiwn hwn yn ystod galwad.</string>
+    <string name="error_mediadb_aacincall">Ni chefnogir recordio galwad llais AAC.</string>
+    <string name="storage_fallback">Yn dychwelyd i leoliad y storfa fewnol</string>
+    <string name="format_setting">Math o ffeil</string>
+    <string name="storage_setting">Lleoliad storfa</string>
+    <string name="storage_setting_local_item">Storfa\'r ffôn</string>
+    <string name="no_phonestorage">Dadfowntiwyd storfa\'r ffôn</string>
+    <string name="keyboard">Bysellfwrdd</string>
+    <string name="file_deleted">Dileuwyd y ffeil</string>
+    <string name="error_app_internal_recorder">Gwall ap mewnol.\n\nGall fod y meicroffon yn cael ei ddefnyddio.</string>
+    <string name="view_recordings">Gweld recordiadau</string>
+    <string name="denied_title">Caniatâd</string>
+    <string name="perm_mic">Mae ar Recordydd Sain angen mynediad i\'r meicroffon i recordio sain.</string>
+    <string name="perm_storage">Mae ar Recordydd Sain angen mynediad i storfa er mwyn cadw ffeiliau a recordiwyd.</string>
+    <string name="perm_phone">Mae ar y recordydd sain angen mynediad i statws y ffôn er mwyn sicrhau nad yw\'r ap hwn yn recordio tra dy fod mewn galwad.</string>
+    <string name="perm_micstorage">Mae ar y recordydd sain angen mynediad i\'r meicroffon i fedru recordio sain a mynediad i\'r storfa i gadw ffeiliau recordiadau.</string>
+    <string name="perm_micphone">Mae ar y recordydd sain angen mynediad i\'r meicroffon i fedru recordio sain, mynediad i statws y ffôn er mwyn sicrhau nad yw\'r ap hwn yn recordio tra dy fod mewn galwad.</string>
+    <string name="perm_storagephone">Mae ar y recordydd sain angen mynediad i\'r storfa i gadw ffeiliau recordiadau ac i statws y ffôn er mwyn sicrhau nad yw\'r ap hwn yn recordio tra dy fod mewn galwad.</string>
+    <string name="perm_allperms">Mae ar y recordydd sain angen mynediad i\'r meicroffon i fedru recordio sain, mynediad i\'r storfa i gadw ffeiliau recordiadau, ac i statws y ffôn er mwyn sicrhau nad yw\'r ap hwn yn recordio tra dy fod mewn galwad.</string>
+    <string name="perm_unknown">Gwall caniatâd. Gwiria statws caniatâd yn Gosodiadau.</string>
+    <string name="ask_again">Gofyn eto</string>
+    <string name="dismiss">Diystyru</string>
+    <string name="perm_toast">Gwrthodwyd peth caniatad sydd ei angen. Rho ganiatâd yn Gosodiadau er mwyn dechrau recordio.</string>
+    <string name="error_storage_access" product="nosdcard">Methu cael at storfa USB. Sicrha bod gan Sound Recorder ganiatâd i gael at y storfa</string>
+    <string name="error_storage_access" product="default">Does dim digon o le yn y storfa fewnol; wedi newid lleoliad storio i gerdyn SD</string>
+    <string name="in_call_record_error">Ni chaniateir recordio yn ystod galwad.</string>
+    <string name="button_menu">Rhagor o ddewisiadau</string>
+    <string name="notification_bg_title">Yn recordio sain</string>
+    <string name="notification_bg_content">Mae\'r Recordydd Sain yn recordio\u2026</string>
+    <string name="notification_stopped_title">Recordio wedi stopio</string>
+    <string name="notification_stopped_content">Torrwyd ar draws gan alwad neu gerddoriaeth</string>
+    <string name="bt_using_headset">Yn defnyddio penset Bluetooth</string>
+    <string name="bt_headset_connecting">Yn cysylltu i benset</string>
+    <string name="bt_headset_disconnected">Collwyd cysylltiad Bluetooth</string>
+    <string name="bt_headset_timeout">Amser cysylltiad Bluetooth wedi dod i ben</string>
 </resources>

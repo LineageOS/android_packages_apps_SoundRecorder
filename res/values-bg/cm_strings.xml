@@ -16,57 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label shown when recording is paused -->
-  <string name="recording_paused">На пауза</string>
-  <!-- Label shown when recording is finished -->
-  <string name="recording_finished">Записването завърши</string>
-  <!-- shown as the message in a dialog when the app encountered and unsupported format -->
-  <string name="error_app_unsupported">Неподдържан формат.</string>
-  <!-- shown as the message in a dialog when the recording cannot be started while in call -->
-  <string name="error_mediadb_incall">Тази опция не се поддържа по време на разговор.</string>
-  <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
-  <string name="error_mediadb_aacincall">Запис на разговор в AAC формат не се поддържа.</string>
-  <!-- shown as the toast text when storage is fallback from external to internal -->
-  <string name="storage_fallback">Връщане към вътрешното хранилище за съхранение</string>
-  <!-- shown as the dialog title when user selects recording format -->
-  <string name="format_setting">Тип на файла</string>
-  <string name="storage_setting">Място на съхранение</string>
-  <string name="storage_setting_local_item">Вградена памет</string>
-  <string name="no_phonestorage">Вградената памет е недостъпна</string>
-  <string name="keyboard">Клавиатура</string>
-  <string name="file_deleted">Файлът е бил изтрит</string>
-  <!-- shown as the message in a dialog when the app encountered an internal error while trying to start recording -->
-  <string name="error_app_internal_recorder">Вътрешна гршка.\n\nМикрофона може да се използва от друго приложение.</string>
-  <string name="view_recordings">Преглед на записи</string>
-  <!-- Permissions feedback -->
-  <string name="denied_title">Разрешения</string>
-  <string name="perm_mic">Приложението за звукозапис се нуждае от достъп до микрофон за запис на звук.</string>
-  <string name="perm_storage">Приложението за звукозапис се нуждае от достъп до място за съхранение за запазване на записаните файлове.</string>
-  <string name="perm_phone">Приложението за звукозапис се нуждае от достъп до телефонен статус за да предотврати запис по време на разговор.</string>
-  <string name="perm_micstorage">Приложението за звукозапис се нуждае от достъп до микрофона за записване и достъп до хранилището за съхранение на записаните файлове.</string>
-  <string name="perm_micphone">Приложението за звукозапис се нуждае от достъп до микрофона и телефонен статус за да предотврати запис по време на разговор.</string>
-  <string name="perm_storagephone">Приложението за звукозапис се нуждае от достъп до място за съхранение и телефонен статус за да предотврати запис по време на разговор.</string>
-  <string name="perm_allperms">Приложението за звукозапис се нуждае от достъп до микрофон и до място за съхранение и телефонен статус за да предотврати запис по време на разговор.</string>
-  <string name="perm_unknown">Грешка в разрешенията, проверете статута на разрешенията в настройките на приложението.</string>
-  <string name="ask_again">Попитай отново</string>
-  <string name="dismiss">Отхвърли</string>
-  <string name="perm_toast">Необходимите разрешения са отказани, разрешете ги от настройките на приложението и започнете запис</string>
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
-  <string name="error_storage_access" product="nosdcard">Няма достъп до USB памета. Уверете се, че приложението има необходимите разрешения за достъп</string>
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
-  <string name="error_storage_access" product="default">Няма достъп до картата памет. Уверете се, че приложението има необходимите разрешения за достъп</string>
-  <string name="in_call_record_error">Записването не е позволено по време на разговор.</string>
-  <string name="button_menu">Още опции</string>
-  <string name="notification_bg_title">Записване на звук</string>
-  <string name="notification_bg_content">Звукозаписвачът записва\u2026</string>
-  <string name="notification_stopped_title">Записът спря</string>
-  <string name="notification_stopped_content">Прекъснат от обаждане или музика</string>
-  <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
-  <string name="bt_using_headset">Използване на блутуут слушалки</string>
-  <!-- shown as a toast when initiating a connection to a bluetooth headset -->
-  <string name="bt_headset_connecting">Свързване на слушалка</string>
-  <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
-  <string name="bt_headset_disconnected">Блутуут връзката е прекъсната</string>
-  <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
-  <string name="bt_headset_timeout">Времето за изчакване на блутуут връзката изтече</string>
+    <string name="recording_paused">На пауза</string>
+    <string name="recording_finished">Записването завърши</string>
+    <string name="error_app_unsupported">Неподдържан формат.</string>
+    <string name="error_mediadb_incall">Тази опция не се поддържа по време на разговор.</string>
+    <string name="error_mediadb_aacincall">Запис на разговор в AAC формат не се поддържа.</string>
+    <string name="storage_fallback">Връщане към вътрешното хранилище за съхранение</string>
+    <string name="format_setting">Тип на файла</string>
+    <string name="storage_setting">Място на съхранение</string>
+    <string name="storage_setting_local_item">Вградена памет</string>
+    <string name="no_phonestorage">Вградената памет е недостъпна</string>
+    <string name="keyboard">Клавиатура</string>
+    <string name="file_deleted">Файлът е бил изтрит</string>
+    <string name="error_app_internal_recorder">Вътрешна гршка.\n\nМикрофона може да се използва от друго приложение.</string>
+    <string name="view_recordings">Преглед на записи</string>
+    <string name="denied_title">Разрешения</string>
+    <string name="perm_mic">Приложението за звукозапис се нуждае от достъп до микрофон за запис на звук.</string>
+    <string name="perm_storage">Приложението за звукозапис се нуждае от достъп до място за съхранение за запазване на записаните файлове.</string>
+    <string name="perm_phone">Приложението за звукозапис се нуждае от достъп до телефонен статус за да предотврати запис по време на разговор.</string>
+    <string name="perm_micstorage">Приложението за звукозапис се нуждае от достъп до микрофона за записване и достъп до хранилището за съхранение на записаните файлове.</string>
+    <string name="perm_micphone">Приложението за звукозапис се нуждае от достъп до микрофона и телефонен статус за да предотврати запис по време на разговор.</string>
+    <string name="perm_storagephone">Приложението за звукозапис се нуждае от достъп до място за съхранение и телефонен статус за да предотврати запис по време на разговор.</string>
+    <string name="perm_allperms">Приложението за звукозапис се нуждае от достъп до микрофон и до място за съхранение и телефонен статус за да предотврати запис по време на разговор.</string>
+    <string name="perm_unknown">Грешка в разрешенията, проверете статута на разрешенията в настройките на приложението.</string>
+    <string name="ask_again">Попитай отново</string>
+    <string name="dismiss">Отхвърли</string>
+    <string name="perm_toast">Необходимите разрешения са отказани, разрешете ги от настройките на приложението и започнете запис</string>
+    <string name="error_storage_access" product="nosdcard">Няма достъп до USB памета. Уверете се, че приложението има необходимите разрешения за достъп</string>
+    <string name="error_storage_access" product="default">Няма достъп до картата памет. Уверете се, че приложението има необходимите разрешения за достъп</string>
+    <string name="in_call_record_error">Записването не е позволено по време на разговор.</string>
+    <string name="button_menu">Още опции</string>
+    <string name="notification_bg_title">Записване на звук</string>
+    <string name="notification_bg_content">Звукозаписвачът записва\u2026</string>
+    <string name="notification_stopped_title">Записът спря</string>
+    <string name="notification_stopped_content">Прекъснат от обаждане или музика</string>
+    <string name="bt_using_headset">Използване на блутуут слушалки</string>
+    <string name="bt_headset_connecting">Свързване на слушалка</string>
+    <string name="bt_headset_disconnected">Блутуут връзката е прекъсната</string>
+    <string name="bt_headset_timeout">Времето за изчакване на блутуут връзката изтече</string>
 </resources>

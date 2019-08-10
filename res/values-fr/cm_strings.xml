@@ -16,57 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label shown when recording is paused -->
-  <string name="recording_paused">En pause</string>
-  <!-- Label shown when recording is finished -->
-  <string name="recording_finished">Enregistrement terminé</string>
-  <!-- shown as the message in a dialog when the app encountered and unsupported format -->
-  <string name="error_app_unsupported">Format non pris en charge.</string>
-  <!-- shown as the message in a dialog when the recording cannot be started while in call -->
-  <string name="error_mediadb_incall">Cette option n\'est pas prise en charge pendant un appel.</string>
-  <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
-  <string name="error_mediadb_aacincall">Enregistrement d\'appel vocal AAC non pris en charge.</string>
-  <!-- shown as the toast text when storage is fallback from external to internal -->
-  <string name="storage_fallback">Retour à l\'emplacement de stockage interne</string>
-  <!-- shown as the dialog title when user selects recording format -->
-  <string name="format_setting">Type de fichier</string>
-  <string name="storage_setting">Emplacement de stockage</string>
-  <string name="storage_setting_local_item">Stockage du téléphone</string>
-  <string name="no_phonestorage">Stockage du téléphone non disponible</string>
-  <string name="keyboard">Clavier</string>
-  <string name="file_deleted">Le fichier a été supprimé</string>
-  <!-- shown as the message in a dialog when the app encountered an internal error while trying to start recording -->
-  <string name="error_app_internal_recorder">Erreur interne de l\'application.\n\nLe microphone est peut-être en cours d\'utilisation.</string>
-  <string name="view_recordings">Afficher les enregistrements</string>
-  <!-- Permissions feedback -->
-  <string name="denied_title">Autorisations</string>
-  <string name="perm_mic">Le magnétophone a besoin d\'accéder au microphone pour enregistrer l\'audio.</string>
-  <string name="perm_storage">Le magnétophone a besoin d’accéder au stockage pour sauvegarder les fichiers enregistrés.</string>
-  <string name="perm_phone">Le magnétophone a besoin d\'accéder à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
-  <string name="perm_micstorage">Le magnétophone a besoin d’accéder au microphone pour enregistrer l\'audio et au stockage pour sauvegarder les fichiers enregistrés.</string>
-  <string name="perm_micphone">Le magnétophone a besoin d’accéder au microphone pour enregistrer l\'audio et à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
-  <string name="perm_storagephone">Le magnétophone a besoin d\'accéder au stockage pour sauvegarder les fichiers enregistrés et à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
-  <string name="perm_allperms">Le magnétophone a besoin d’accéder au microphone pour enregistrer l\'audio, au stockage pour sauvegarder les fichiers enregistrés et à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
-  <string name="perm_unknown">Erreur d\'autorisations, vérifiez l\'état des autorisations dans l\'application Paramètres.</string>
-  <string name="ask_again">Redemander</string>
-  <string name="dismiss">Masquer</string>
-  <string name="perm_toast">Les autorisations requises ont été refusées, activez-les depuis l\'application Paramètres pour commencer à enregistrer</string>
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
-  <string name="error_storage_access" product="nosdcard">Impossible d\'accéder au stockage USB. Assurez-vous que le magnétophone est autorisé à accéder au stockage</string>
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
-  <string name="error_storage_access" product="default">Impossible d\'accéder à la carte SD. Assurez-vous que le magnétophone est autorisé à accéder au stockage</string>
-  <string name="in_call_record_error">L\'enregistrement n\'est pas autorisé pendant un appel.</string>
-  <string name="button_menu">Plus d\'options</string>
-  <string name="notification_bg_title">Enregistrement de l\'audio</string>
-  <string name="notification_bg_content">Le magnétophone est en train d\'enregistrer\u2026</string>
-  <string name="notification_stopped_title">Enregistrement arrêté</string>
-  <string name="notification_stopped_content">Interrompue par l’appel ou de la musique</string>
-  <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
-  <string name="bt_using_headset">Utilise l\'oreillette bluetooth</string>
-  <!-- shown as a toast when initiating a connection to a bluetooth headset -->
-  <string name="bt_headset_connecting">Connexion à oreillette</string>
-  <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
-  <string name="bt_headset_disconnected">Perte de connexion Bluetooth</string>
-  <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
-  <string name="bt_headset_timeout">Délai de connexion Bluetooth dépassé</string>
+    <string name="recording_paused">En pause</string>
+    <string name="recording_finished">Enregistrement terminé</string>
+    <string name="error_app_unsupported">Format non pris en charge.</string>
+    <string name="error_mediadb_incall">Cette option n\'est pas prise en charge pendant un appel.</string>
+    <string name="error_mediadb_aacincall">Enregistrement d\'appel vocal AAC non pris en charge.</string>
+    <string name="storage_fallback">Retour à l\'emplacement de stockage interne</string>
+    <string name="format_setting">Type de fichier</string>
+    <string name="storage_setting">Emplacement de stockage</string>
+    <string name="storage_setting_local_item">Stockage du téléphone</string>
+    <string name="no_phonestorage">Stockage du téléphone non disponible</string>
+    <string name="keyboard">Clavier</string>
+    <string name="file_deleted">Le fichier a été supprimé</string>
+    <string name="error_app_internal_recorder">Erreur interne de l\'application.\n\nLe microphone est peut-être en cours d\'utilisation.</string>
+    <string name="view_recordings">Afficher les enregistrements</string>
+    <string name="denied_title">Autorisations</string>
+    <string name="perm_mic">Le magnétophone a besoin d\'accéder au microphone pour enregistrer l\'audio.</string>
+    <string name="perm_storage">Le magnétophone a besoin d’accéder au stockage pour sauvegarder les fichiers enregistrés.</string>
+    <string name="perm_phone">Le magnétophone a besoin d\'accéder à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
+    <string name="perm_micstorage">Le magnétophone a besoin d’accéder au microphone pour enregistrer l\'audio et au stockage pour sauvegarder les fichiers enregistrés.</string>
+    <string name="perm_micphone">Le magnétophone a besoin d’accéder au microphone pour enregistrer l\'audio et à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
+    <string name="perm_storagephone">Le magnétophone a besoin d\'accéder au stockage pour sauvegarder les fichiers enregistrés et à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
+    <string name="perm_allperms">Le magnétophone a besoin d’accéder au microphone pour enregistrer l\'audio, au stockage pour sauvegarder les fichiers enregistrés et à l\'état du téléphone pour empêcher cette application d\'enregistrer pendant un appel.</string>
+    <string name="perm_unknown">Erreur d\'autorisations, vérifiez l\'état des autorisations dans l\'application Paramètres.</string>
+    <string name="ask_again">Redemander</string>
+    <string name="dismiss">Masquer</string>
+    <string name="perm_toast">Les autorisations requises ont été refusées, activez-les depuis l\'application Paramètres pour commencer à enregistrer</string>
+    <string name="error_storage_access" product="nosdcard">Impossible d\'accéder au stockage USB. Assurez-vous que le magnétophone est autorisé à accéder au stockage</string>
+    <string name="error_storage_access" product="default">Impossible d\'accéder à la carte SD. Assurez-vous que le magnétophone est autorisé à accéder au stockage</string>
+    <string name="in_call_record_error">L\'enregistrement n\'est pas autorisé pendant un appel.</string>
+    <string name="button_menu">Plus d\'options</string>
+    <string name="notification_bg_title">Enregistrement de l\'audio</string>
+    <string name="notification_bg_content">Le magnétophone est en train d\'enregistrer\u2026</string>
+    <string name="notification_stopped_title">Enregistrement arrêté</string>
+    <string name="notification_stopped_content">Interrompue par l’appel ou de la musique</string>
+    <string name="bt_using_headset">Utilise l\'oreillette bluetooth</string>
+    <string name="bt_headset_connecting">Connexion à oreillette</string>
+    <string name="bt_headset_disconnected">Perte de connexion Bluetooth</string>
+    <string name="bt_headset_timeout">Délai de connexion Bluetooth dépassé</string>
 </resources>

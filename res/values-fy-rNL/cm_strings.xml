@@ -16,19 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label shown when recording is paused -->
-  <!-- Label shown when recording is finished -->
-  <!-- shown as the message in a dialog when the app encountered and unsupported format -->
-  <!-- shown as the message in a dialog when the recording cannot be started while in call -->
-  <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
-  <!-- shown as the toast text when storage is fallback from external to internal -->
-  <!-- shown as the dialog title when user selects recording format -->
-  <!-- shown as the message in a dialog when the app encountered an internal error while trying to start recording -->
-  <!-- Permissions feedback -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
-  <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
-  <!-- shown as a toast when initiating a connection to a bluetooth headset -->
-  <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
-  <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
+    <string name="recording_paused">Pausearre</string>
+    <string name="recording_finished">Opname foltôge</string>
+    <string name="error_app_unsupported">Net-stipe formaat.</string>
+    <string name="error_mediadb_incall">Net stipe wylst petear.</string>
+    <string name="error_mediadb_aacincall">Petearen opnimme yn AAC net stipe.</string>
+    <string name="storage_fallback">Tebeksette nei ynterne ûnthâldlokaasje</string>
+    <string name="format_setting">Bestânstype</string>
+    <string name="storage_setting">Unthâldlokaasje</string>
+    <string name="storage_setting_local_item">Telefoanûnthâld</string>
+    <string name="no_phonestorage">Telefoanûnthâld ûntkeppele</string>
+    <string name="keyboard">Toetseboerd</string>
+    <string name="file_deleted">Bestân fuortsmiten</string>
+    <string name="error_app_internal_recorder">Ynterne app-flater.\n\nMikrofoan mooglik yn gebrûk.</string>
+    <string name="view_recordings">Opnamen besjen</string>
+    <string name="denied_title">Machtigingen</string>
+    <string name="perm_mic">Lûdsrecorder hat tagong ta de mikrofoan nedich om lûd op nimme te kinnen.</string>
+    <string name="perm_storage">Lûdsrecorder hat tagong nedich ta it ûnthâld om bestannen bewarje te kinnen.</string>
+    <string name="perm_phone">Lûdsrecorder hat tagong nedich ta de telefoansteat om foar te kommen dat dizze app opnimt wylst oproppen.</string>
+    <string name="perm_micstorage">Lûdsrecorder hat tagong nedich ta de mikrofoan om audio op nimme te kinnen en tagong ta it ûnthâld nedich om bestannen bewarje te kinnen.</string>
+    <string name="perm_micphone">Lûdsrecorder hat tagong nedich ta de mikrofoan om audio op nimme te kinnen en tagong nedich ta de telefoansteat om foar te kommen dat dizze app opnimt wylst oproppen.</string>
+    <string name="perm_storagephone">Lûdsrecorder hat tagong nedich ta de it ûnthâld om bestannen op bewarje te kinnen en tagong nedich ta de telefoansteat om foar te kommen dat dizze app opnimt wylst oproppen.</string>
+    <string name="perm_allperms">Lûdsrecorder hat tagong nedich ta de mikrofoan om audio op nimme te kinnen, tagong ta it ûnthâld om bestannen bewarje te kinnen en tagong nedich ta de telefoansteat om foar te kommen dat dizze app opnimt wylst oproppen.</string>
+    <string name="perm_unknown">Machtigingsflater, kontrolearje de steat fan de machtiging yn Ynstellingen.</string>
+    <string name="ask_again">Opnij freegje</string>
+    <string name="dismiss">Slute</string>
+    <string name="perm_toast">Fereaske machtigingen waarden wegere, skeakelje se yn yn Ynstellingen om opname te starten</string>
+    <string name="error_storage_access" product="nosdcard">Gjin tagong ta USB-ûnthâld. Soargje derfoar dat Lûdsrecorder de machtiging hat foar tagong ta it ûnthald</string>
+    <string name="error_storage_access" product="default">Gjin tagong ta SD-kaart. Soargje derfoar dat Lûdsrecorder de machtiging hat foar tagong ta it ûnthald</string>
+    <string name="in_call_record_error">Opnimmen net tastien wylst in oprop.</string>
+    <string name="button_menu">Mear opsjes</string>
+    <string name="notification_bg_title">Audio opnimme</string>
+    <string name="notification_bg_content">Lûdsrecorder is oan it opnimmen\u2026</string>
+    <string name="notification_stopped_title">Opnimmen stoppe</string>
+    <string name="notification_stopped_content">Underbrutsen troch oprop of muzyk</string>
+    <string name="bt_using_headset">Bluetooth-koptelefoan brûke</string>
+    <string name="bt_headset_connecting">Ferbine mei koptelefoan</string>
+    <string name="bt_headset_disconnected">Bluetooth-ferbining ferbrutsen</string>
+    <string name="bt_headset_timeout">Bluetooth-ferbining út de tiid rûn</string>
 </resources>

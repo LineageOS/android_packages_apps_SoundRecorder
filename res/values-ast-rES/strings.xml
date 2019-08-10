@@ -15,36 +15,27 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- application name and title of error dialogs-->
-  <string name="app_name">Grabadora de soníu</string>
-  <!-- Screen title before and during recording -->
-  <string name="record_your_message">Graba\'l to mensaxe</string>
-  <!-- Screen title after recording -->
-  <!-- Screen title while playing back a recording -->
-  <!-- Label shown during recording -->
-  <!-- Label shown when the recording is stopped for a reason other than the user stopping it (e.g. the sd card was removed) -->
-  <!-- label shown when there is not enough space to record something -->
-  <string name="storage_is_full">L\'almacenamientu ta enllén</string>
-  <!-- label shown when the recording has reached maximum allowed file size -->
-  <string name="max_length_reached">Algamóse la duración máxima</string>
-  <!-- label shown when there is no sd card available to record to [CHAR LIMIT=30] -->
-  <!-- label shown when there is no sd card available to record to -->
-  <!-- label shown when there is more than 1 minute but less than 9 minutes of space left to record -->
-  <!-- label shown when there is less than 1 minute of space left to record -->
-  <string name="sec_available"><xliff:g id="SECONDS">%d</xliff:g>s disponibles</string>
-  <!-- button to accept the current recording and return it to the caller -->
-  <!-- button to discard the current recording and return to the caller -->
-  <string name="discard">Escartar</string>
-  <!-- acknowlegement button in a number of dialogs -->
-  <string name="button_ok">ACEUTAR</string>
-  <!-- Do not translate. Format of the timer that shows how much has been recorded so far -->
-  <!-- the name under which recordings will be visible in the media database is formatted like this -->
-  <string name="audio_db_title_format"><xliff:g id="format">dd-MM-yyyy HH:mm:ss</xliff:g></string>
-  <!-- all recordings will show up in the media database with this 'artist' name -->
-  <!-- all recordings will show up in the media database with this 'album' name -->
-  <!-- all recordings will show up in the media database in a playlist with this name -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
-  <!-- shown as the message in a dialog when the app encountered an unspecified internal error -->
-  <!-- shown as the message in a dialog when the recording could not be added to the media database -->
+    <string name="app_name">Grabadora de soníu</string>
+    <string name="record_your_message">Graba\'l to mensaxe</string>
+    <string name="message_recorded">Mensaxe grabáu</string>
+    <string name="review_message">Revisar mensaxe</string>
+    <string name="recording">Grabando</string>
+    <string name="recording_stopped">Grabación detenida</string>
+    <string name="storage_is_full">L\'almacenamientu ta enllén</string>
+    <string name="max_length_reached">Algamóse la duración máxima</string>
+    <string name="insert_sd_card" product="nosdcard">Activar almacenamientu USB</string>
+    <string name="insert_sd_card" product="default">Inxertar una tarxeta SD</string>
+    <string name="min_available"><xliff:g id="MINUTES">%d</xliff:g> minutos disponibles</string>
+    <string name="sec_available"><xliff:g id="SECONDS">%d</xliff:g>s disponibles</string>
+    <string name="accept">Fecho</string>
+    <string name="discard">Escartar</string>
+    <string name="button_ok">ACEUTAR</string>
+    <string name="audio_db_title_format"><xliff:g id="format">dd-MM-yyyy HH:mm:ss</xliff:g></string>
+    <string name="audio_db_artist_name">Les tos grabaciones</string>
+    <string name="audio_db_album_name">Grabaciones d\'audiu</string>
+    <string name="audio_db_playlist_name">Les mios grabaciones</string>
+    <string name="error_sdcard_access" product="nosdcard">Nun pue accedese al almacenamientu USB.</string>
+    <string name="error_sdcard_access" product="default">Nun pue accedese a la tarxeta SD.</string>
+    <string name="error_app_internal">Fallu internu de l\'aplicación.</string>
+    <string name="error_mediadb_new_record">Nun pudo guardase l\'audiu grabáu.</string>
 </resources>

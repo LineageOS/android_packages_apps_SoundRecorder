@@ -15,28 +15,27 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- application name and title of error dialogs-->
-  <!-- Screen title before and during recording -->
-  <!-- Screen title after recording -->
-  <!-- Screen title while playing back a recording -->
-  <!-- Label shown during recording -->
-  <!-- Label shown when the recording is stopped for a reason other than the user stopping it (e.g. the sd card was removed) -->
-  <!-- label shown when there is not enough space to record something -->
-  <!-- label shown when the recording has reached maximum allowed file size -->
-  <!-- label shown when there is no sd card available to record to [CHAR LIMIT=30] -->
-  <!-- label shown when there is no sd card available to record to -->
-  <!-- label shown when there is more than 1 minute but less than 9 minutes of space left to record -->
-  <!-- label shown when there is less than 1 minute of space left to record -->
-  <!-- button to accept the current recording and return it to the caller -->
-  <!-- button to discard the current recording and return to the caller -->
-  <!-- acknowlegement button in a number of dialogs -->
-  <!-- Do not translate. Format of the timer that shows how much has been recorded so far -->
-  <!-- the name under which recordings will be visible in the media database is formatted like this -->
-  <!-- all recordings will show up in the media database with this 'artist' name -->
-  <!-- all recordings will show up in the media database with this 'album' name -->
-  <!-- all recordings will show up in the media database in a playlist with this name -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
-  <!-- shown as the message in a dialog when the app encountered an unspecified internal error -->
-  <!-- shown as the message in a dialog when the recording could not be added to the media database -->
+    <string name="app_name">Recordydd Sain</string>
+    <string name="record_your_message">Recordio dy neges</string>
+    <string name="message_recorded">Neges wedi\'i recordio</string>
+    <string name="review_message">Adolygu neges</string>
+    <string name="recording">Yn recordio</string>
+    <string name="recording_stopped">Recordio wedi\'i stopio</string>
+    <string name="storage_is_full">Storfa yn llawn</string>
+    <string name="max_length_reached">Wedi cyrraedd yr hyd hiraf posib</string>
+    <string name="insert_sd_card" product="nosdcard">Gosod storfa USB</string>
+    <string name="insert_sd_card" product="default">Gosod cerdyn SD</string>
+    <string name="min_available"><xliff:g id="minutes">%d</xliff:g> mun ar gael</string>
+    <string name="sec_available"><xliff:g id="seconds">%d</xliff:g>e ar gael</string>
+    <string name="accept">Iawn</string>
+    <string name="discard">Gwaredu</string>
+    <string name="button_ok">Iawn</string>
+    <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+    <string name="audio_db_artist_name">Dy recordiadau</string>
+    <string name="audio_db_album_name">Recordiadau sain</string>
+    <string name="audio_db_playlist_name">Fy recordiadau</string>
+    <string name="error_sdcard_access" product="nosdcard">Methu â chael at y storfa USB.</string>
+    <string name="error_sdcard_access" product="default">Methu â chael at y cerdyn SD.</string>
+    <string name="error_app_internal">Gwall ap mewnol.</string>
+    <string name="error_mediadb_new_record">Methwyd â chadw\'r sain a recordiwyd.</string>
 </resources>

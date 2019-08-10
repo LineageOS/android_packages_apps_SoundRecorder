@@ -16,57 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Label shown when recording is paused -->
-  <string name="recording_paused">일시 정지됨</string>
-  <!-- Label shown when recording is finished -->
-  <string name="recording_finished">녹음 완료</string>
-  <!-- shown as the message in a dialog when the app encountered and unsupported format -->
-  <string name="error_app_unsupported">지원되지 않는 형식입니다.</string>
-  <!-- shown as the message in a dialog when the recording cannot be started while in call -->
-  <string name="error_mediadb_incall">이 기능은 통화 중에는 사용할 수 없습니다.</string>
-  <!-- shown as the message in a dialog when voice call recording is started for AAC format -->
-  <string name="error_mediadb_aacincall">AAC 음성통화 녹음은 지원되지 않습니다.</string>
-  <!-- shown as the toast text when storage is fallback from external to internal -->
-  <string name="storage_fallback">내부 저장소 위치로 되돌리는 중</string>
-  <!-- shown as the dialog title when user selects recording format -->
-  <string name="format_setting">파일 형식</string>
-  <string name="storage_setting">저장 위치</string>
-  <string name="storage_setting_local_item">휴대전화 저장소</string>
-  <string name="no_phonestorage">휴대전화 저장소 분리됨</string>
-  <string name="keyboard">키보드</string>
-  <string name="file_deleted">파일이 삭제되었습니다</string>
-  <!-- shown as the message in a dialog when the app encountered an internal error while trying to start recording -->
-  <string name="error_app_internal_recorder">내부 애플리케이션 오류.\n\n마이크가 사용 중일 수 있습니다.</string>
-  <string name="view_recordings">녹음 확인</string>
-  <!-- Permissions feedback -->
-  <string name="denied_title">권한</string>
-  <string name="perm_mic">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한이 필요합니다.</string>
-  <string name="perm_storage">Sound Recorder는 녹음한 소리를 저장하기 위해 저장소 사용 권한이 필요합니다.</string>
-  <string name="perm_phone">Sound Recorder는 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
-  <string name="perm_micstorage">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한과 녹음한 소리를 저장하기 위해 저장소 사용 권한이 필요합니다.</string>
-  <string name="perm_micphone">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한과 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
-  <string name="perm_storagephone">Sound Recorder는 녹음한 소리를 저장하기 위해 저장소 사용 권한과 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
-  <string name="perm_allperms">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한과 녹음한 소리를 저장하기 위해 저장소 사용 권한과 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
-  <string name="perm_unknown">권한 오류, 설정 앱에서 권한 상태를 확인하세요.</string>
-  <string name="ask_again">다시 묻기</string>
-  <string name="dismiss">취소</string>
-  <string name="perm_toast">필요한 권한이 사용 거부되었습니다. 설정 앱에서 허용한 다음 녹음을 시작하세요</string>
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card [CHAR LIMIT=NONE] -->
-  <string name="error_storage_access" product="nosdcard">USB 저장소에 접근할 수 없습니다. Sound Recorder가 저장소 접근 권한이 있는지 확인하세요</string>
-  <!-- shown as the message in a dialog when an error occured because of an error accessing the sd card -->
-  <string name="error_storage_access" product="default">SD 카드에 접근할 수 없습니다. Sound Recorder가 저장소 접근 권한이 있는지 확인하세요</string>
-  <string name="in_call_record_error">통화 중 녹음은 허용되지 않습니다.</string>
-  <string name="button_menu">기타 옵션</string>
-  <string name="notification_bg_title">오디오 녹음 중</string>
-  <string name="notification_bg_content">Sound Recorder가 녹음중입니다\u2026</string>
-  <string name="notification_stopped_title">녹음 중지됨</string>
-  <string name="notification_stopped_content">통화 또는 음악에 의해 중단</string>
-  <!-- shown as a toast when a recording is started with a bluetooth headset as the input source -->
-  <string name="bt_using_headset">블루투스 헤드셋 사용</string>
-  <!-- shown as a toast when initiating a connection to a bluetooth headset -->
-  <string name="bt_headset_connecting">헤드셋에 연결 중</string>
-  <!-- shown as a toast when recording is stopped because a bluetooth connection is dropped -->
-  <string name="bt_headset_disconnected">블루투스 연결 끊김</string>
-  <!-- shown as a toast when recording fails to start because a bluetooth connection was not started -->
-  <string name="bt_headset_timeout">블루투스 연결 시간 초과</string>
+    <string name="recording_paused">일시 정지됨</string>
+    <string name="recording_finished">녹음 완료</string>
+    <string name="error_app_unsupported">지원되지 않는 형식입니다.</string>
+    <string name="error_mediadb_incall">이 기능은 통화 중에는 사용할 수 없습니다.</string>
+    <string name="error_mediadb_aacincall">AAC 음성통화 녹음은 지원되지 않습니다.</string>
+    <string name="storage_fallback">내부 저장소 위치로 되돌리는 중</string>
+    <string name="format_setting">파일 형식</string>
+    <string name="storage_setting">저장 위치</string>
+    <string name="storage_setting_local_item">휴대전화 저장소</string>
+    <string name="no_phonestorage">휴대전화 저장소 분리됨</string>
+    <string name="keyboard">키보드</string>
+    <string name="file_deleted">파일이 삭제되었습니다</string>
+    <string name="error_app_internal_recorder">내부 애플리케이션 오류.\n\n마이크가 사용 중일 수 있습니다.</string>
+    <string name="view_recordings">녹음 확인</string>
+    <string name="denied_title">권한</string>
+    <string name="perm_mic">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한이 필요합니다.</string>
+    <string name="perm_storage">Sound Recorder는 녹음한 소리를 저장하기 위해 저장소 사용 권한이 필요합니다.</string>
+    <string name="perm_phone">Sound Recorder는 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
+    <string name="perm_micstorage">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한과 녹음한 소리를 저장하기 위해 저장소 사용 권한이 필요합니다.</string>
+    <string name="perm_micphone">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한과 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
+    <string name="perm_storagephone">Sound Recorder는 녹음한 소리를 저장하기 위해 저장소 사용 권한과 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
+    <string name="perm_allperms">Sound Recorder는 소리를 기록하기 위해 마이크 사용 권한과 녹음한 소리를 저장하기 위해 저장소 사용 권한과 통화하는 동안 녹음을 중단하기 위해 전화 상태 접근 권한이 필요합니다.</string>
+    <string name="perm_unknown">권한 오류, 설정 앱에서 권한 상태를 확인하세요.</string>
+    <string name="ask_again">다시 묻기</string>
+    <string name="dismiss">취소</string>
+    <string name="perm_toast">필요한 권한이 사용 거부되었습니다. 설정 앱에서 허용한 다음 녹음을 시작하세요</string>
+    <string name="error_storage_access" product="nosdcard">USB 저장소에 접근할 수 없습니다. Sound Recorder가 저장소 접근 권한이 있는지 확인하세요</string>
+    <string name="error_storage_access" product="default">SD 카드에 접근할 수 없습니다. Sound Recorder가 저장소 접근 권한이 있는지 확인하세요</string>
+    <string name="in_call_record_error">통화 중 녹음은 허용되지 않습니다.</string>
+    <string name="button_menu">기타 옵션</string>
+    <string name="notification_bg_title">오디오 녹음 중</string>
+    <string name="notification_bg_content">Sound Recorder가 녹음중입니다\u2026</string>
+    <string name="notification_stopped_title">녹음 중지됨</string>
+    <string name="notification_stopped_content">통화 또는 음악에 의해 중단</string>
+    <string name="bt_using_headset">블루투스 헤드셋 사용</string>
+    <string name="bt_headset_connecting">헤드셋에 연결 중</string>
+    <string name="bt_headset_disconnected">블루투스 연결 끊김</string>
+    <string name="bt_headset_timeout">블루투스 연결 시간 초과</string>
 </resources>
