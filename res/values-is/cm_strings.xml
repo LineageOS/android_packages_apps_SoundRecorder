@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014-2015 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="storage_setting_local_item">Gagnageymsla símans</string>
+    <string name="no_phonestorage">Gagnageymsla símans er aftengd</string>
+    <string name="perm_mic">Upptökuforitið þarf heimild fyrir aðgang að hljóðnema til að taka upp hljóð.</string>
+    <string name="perm_storage">Upptökuforitið þarf heimild fyrir aðgang að geymslurými til að vista skrár.</string>
+    <string name="perm_phone">Upptökuforitið þarf heimild fyrir aðgang að stöðu símans til að koma í veg fyrir hljóðupptöku á meðan símtölum stendur.</string>
+    <string name="perm_micstorage">Upptökuforitið þarf heimild fyrir aðgang að hljóðnema til að taka upp hljóð og að geymslurými til að vista skrár.</string>
+    <string name="perm_micphone">Upptökuforitið þarf heimild fyrir aðgang að hljóðnema til að taka upp hljóð og að stöðu símans til að koma í veg fyrir hljóðupptöku á meðan símtölum stendur.</string>
+    <string name="perm_storagephone">Upptökuforitið þarf heimild fyrir aðgang að geymslurými til að vista skrár og að stöðu símans til að koma í veg fyrir hljóðupptöku á meðan símtölum stendur.</string>
+    <string name="perm_allperms">Upptökuforitið þarf heimild fyrir aðgang að hljóðnema til að taka upp hljóð, að geymslurými til að vista skrár og að stöðu símans til að koma í veg fyrir hljóðupptöku á meðan símtölum stendur.</string>
+    <string name="perm_unknown">Aðgangsheimildavilla, athugaðu stöðu heimilda í stillingaforritinu.</string>
+    <string name="perm_toast">Nauðsynlegum heimildum var hafnað, virkjaðu þær í stillingaforritinu til að geta hafið upptöku</string>
+    <string name="error_storage_access" product="nosdcard">Get ekki opnað USB-geymslurými. Gakktu úr skugga um að upptökuforritið hafi heimild til að nota geymslurýmið</string>
+    <string name="error_storage_access" product="default">Get ekki opnað SD-minniskort. Gakktu úr skugga um að upptökuforritið hafi heimild til að nota geymslurýmið</string>
+    <string name="notification_bg_content">Upptökuforritið er að taka upp\u2026</string>
+    <string name="notification_stopped_content">Gripið fram í af símtali eða tónlist</string>
+</resources>

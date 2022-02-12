@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014-2015 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recording_paused">’Na stad</string>
+    <string name="recording_finished">Tha an clàradh deiseil</string>
+    <string name="error_app_unsupported">Fòrmat ris nach cuir sinn taic.</string>
+    <string name="error_mediadb_incall">Chan eil taic ris an roghainn seo rè gairme.</string>
+    <string name="error_mediadb_aacincall">Cha chuir sinn taic ri clàradh gairm gutha AAC.</string>
+    <string name="storage_fallback">A’ tilleadh gu ionad an stòrais inntearnail</string>
+    <string name="format_setting">Seòrsa an fhaidhle</string>
+    <string name="storage_setting">Ionad stòrais</string>
+    <string name="storage_setting_local_item">Stòras an fhòn</string>
+    <string name="no_phonestorage">Chaidh stòras an fhòn a dhì-mhunntachadh</string>
+    <string name="keyboard">Meur-chlàr</string>
+    <string name="file_deleted">Chaidh am faidhle a sguabadh às</string>
+    <string name="error_app_internal_recorder">Mearachd inntearnail na h-aplacaid.\n\nDh’fhaoidte gu bheil am micreofon ’ga chleachdadh.</string>
+    <string name="view_recordings">Seall na clàraidhean</string>
+    <string name="denied_title">Ceadan</string>
+    <string name="perm_mic">Feumaidh an clàradair-fuaime inntrigeadh dhan mhicreofon airson fuaim a chlàradh.</string>
+    <string name="perm_storage">Feumaidh an clàradair-fuaime inntrigeadh dhan stòras airson na faidhlichean a chaidh a chlàradh a shàbhaladh.</string>
+    <string name="perm_phone">Feumaidh an clàradair-fuaime inntrigeadh do staid an fhòn ach nach dèan an aplacaid seo clàradh nuair a bhios tu ann an gairm.</string>
+    <string name="perm_micstorage">Feumaidh an clàradair-fuaime inntrigeadh dhan mhicreofon airson fuaim a chlàradh agus inntrigeadh dhan stòras airson na faidhlichean a chaidh a chlàradh a shàbhaladh.</string>
+    <string name="perm_micphone">Feumaidh an clàradair-fuaime inntrigeadh dhan mhicreofon airson fuaim a chlàradh agus inntrigeadh do staid an fhòn ach nach dèan an aplacaid seo clàradh nuair a bhios tu ann an gairm.</string>
+    <string name="perm_storagephone">Feumaidh an clàradair-fuaime inntrigeadh dhan stòras airson na faidhlichean a chaidh a chlàradh a shàbhaladh agus inntrigeadh do staid an fhòn ach nach dèan an aplacaid seo clàradh nuair a bhios tu ann an gairm.</string>
+    <string name="perm_allperms">Feumaidh an clàradair-fuaime inntrigeadh dhan mhicreofon airson fuaim a chlàradh, inntrigeadh dhan stòras airson na faidhlichean a chaidh a chlàradh a shàbhaladh agus inntrigeadh do staid an fhòn ach nach dèan an aplacaid seo clàradh nuair a bhios tu ann an gairm.</string>
+    <string name="perm_unknown">Mearachd cead, thoir sùil air staid a’ chead ann an aplacaid nan roghainnean.</string>
+    <string name="ask_again">Faighnich dhìom a-rithist</string>
+    <string name="dismiss">Leig seachad</string>
+    <string name="perm_toast">Chaidh ceadan riatanach a dhiùltadh, cuir an comas iad ann an aplacaid nan roghainnean mus tòisich thu air a’ chlàradh</string>
+    <string name="error_storage_access" product="nosdcard">Cha ghabh stòras USB inntrigeadh. Dèan cinnteach gu bheil cead aig a’ chlàradair-fhuaime airson an stòras inntrigeadh</string>
+    <string name="error_storage_access" product="default">Cha ghabh cairt SD inntrigeadh. Dèan cinnteach gu bheil cead aig a’ chlàradair-fhuaime airson an stòras inntrigeadh</string>
+    <string name="in_call_record_error">Chan eil clàradh ceadaichte rè gairm.</string>
+    <string name="button_menu">Barrachd roghainnean</string>
+    <string name="notification_bg_title">A’ clàradh fuaim</string>
+    <string name="notification_bg_content">Tha an clàradair-fuaime a’ clàradh\u2026</string>
+    <string name="notification_stopped_title">Chaidh stad a chur air a’ chlàradh</string>
+    <string name="notification_stopped_content">Bhris gairm no ceòl a-steach air</string>
+    <string name="bt_using_headset">A’ cleachdadh seata-cinn Bluetooth</string>
+    <string name="bt_headset_connecting">A’ ceangal ri seata-cinn</string>
+    <string name="bt_headset_disconnected">Chaidh ceangal Bluetooth a bhriseadh</string>
+    <string name="bt_headset_timeout">Dh’fhalbh an ùine air ceangal Bluetooth</string>
+</resources>

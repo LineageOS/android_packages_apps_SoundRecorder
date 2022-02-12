@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Clàradair fuaime</string>
+    <string name="record_your_message">Clàraich an teachdaireachd agad</string>
+    <string name="message_recorded">Chaidh an teachdaireachd agad a chlàradh</string>
+    <string name="review_message">Dèan lèirmheas air an teachdaireachd</string>
+    <string name="recording">’Ga chlàradh</string>
+    <string name="recording_stopped">Chaidh stad a chur air a’ chlàradh</string>
+    <string name="storage_is_full">Tha an stòras làn</string>
+    <string name="max_length_reached">Ràinig thu crìoch na faide</string>
+    <string name="insert_sd_card" product="nosdcard">Munntaich stòras USB</string>
+    <string name="insert_sd_card" product="default">Cuir cairt SD a-steach</string>
+    <string name="min_available"><xliff:g id="minutes">%d</xliff:g> mion ri fhaighinn</string>
+    <string name="sec_available"><xliff:g id="seconds">%d</xliff:g>diog ri fhaighinn</string>
+    <string name="accept">Deiseil</string>
+    <string name="discard">Tilg air falbh</string>
+    <string name="button_ok">Ceart ma-thà</string>
+    <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+    <string name="audio_db_artist_name">Na clàraidhean agad</string>
+    <string name="audio_db_album_name">Clàraidhean fuaime</string>
+    <string name="audio_db_playlist_name">Na clàraidhean agam</string>
+    <string name="error_sdcard_access" product="nosdcard">Chan urrainn dhuinn an stòras USB inntrigeadh.</string>
+    <string name="error_sdcard_access" product="default">Chan urrainn dhuinn a’ chairt SD inntrigeadh.</string>
+    <string name="error_app_internal">Mearachd inntearnail na h-aplacaid.</string>
+    <string name="error_mediadb_new_record">Cha b’ urrainn dhuinn an clàradh fuaime a shàbhaladh.</string>
+</resources>

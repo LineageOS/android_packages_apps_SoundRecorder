@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014-2015 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recording_paused">Fasilə verildi</string>
+    <string name="recording_finished">Səsyazma başa çatdı</string>
+    <string name="error_app_unsupported">Dəstəklənməyən format.</string>
+    <string name="error_mediadb_incall">Bu seçim zəng vaxtı dəstəklənmir.</string>
+    <string name="error_mediadb_aacincall">AAC səsli zəng səsyazması dəstəklənmir.</string>
+    <string name="storage_fallback">Daxili anbar sahəsinə qayıdılır</string>
+    <string name="format_setting">Fayl növü</string>
+    <string name="storage_setting">Anbar yeri</string>
+    <string name="storage_setting_local_item">Telefon anbarı</string>
+    <string name="no_phonestorage">Telefon anbarı qoşulmayıb</string>
+    <string name="keyboard">Klaviatura</string>
+    <string name="file_deleted">Fayl silindi</string>
+    <string name="error_app_internal_recorder">Daxili tətbiqetmə xətası.\n\nMikrofon istifadədə ola bilər.</string>
+    <string name="view_recordings">Səsyazmaları göstər</string>
+    <string name="denied_title">İcazələr</string>
+    <string name="perm_mic">Səsyazan, səsi yazmaq üçün mikrofona müraciət etməlidir.</string>
+    <string name="perm_storage">Səsyazan, yazılmış faylları saxlamaq üçün anbara müraciət etməlidir.</string>
+    <string name="perm_phone">Səsyazan, siz zəng edəndə bu tətbiqin yazmasını əngəlləmək üçün telefon statusuna müraciət etməlidir.</string>
+    <string name="perm_micstorage">Səsyazan, səs yazmaq üçün mikrofona və yazılmış faylları saxlamaq üçün anbara müraciət etməlidir.</string>
+    <string name="perm_micphone">Səsyazan-ın, zəng əsnasında yazmağı əngəlləmək üçün mikrofona müraciətə və telefon vəziyyətinə müraciətə ehtiyacı var.</string>
+    <string name="perm_storagephone">Səsyazan-ın, faylları saxlamaq anbar müraciətinə və zəng əsnasında bu tətbiqin yazmasını əngəlləmək üçün telefon vəziyyətinə müraciətə ehtiyacı var.</string>
+    <string name="perm_allperms">Səsyazan-ın, səs yazmaq üçün mikrofona müraciətinə, saxlanılmış faylları saxlamaq üçün anbar müraciətinə və zəng əsnasında bu tətbiqin səs yazmasını əngəlləmək üçün telefon vəziyətinə müraciətinə ehtiyacı var.</string>
+    <string name="perm_unknown">İcazə xətası, Tənzimləmələr tətbiqindən icazə vəziyyətini yoxlayın.</string>
+    <string name="ask_again">Təkrar soruş</string>
+    <string name="dismiss">İmtina et</string>
+    <string name="perm_toast">Tələb edilən icazələr rədd edildi, səsyazmağa başlamaq üçün Tənzimləmələr tətbiqindən icazələri fəallaşdırın</string>
+    <string name="error_storage_access" product="nosdcard">USB anbar vahidinə müraciət edilə bilmir. Səsyazan-ın anbara müraciət icazəsinə sahib olduğundan əmin olun</string>
+    <string name="error_storage_access" product="default">SD karta müraciət edilə bilmir. Səsyazan-ın anbara müraciət icazəsinə sahib olduğundan əmin olun</string>
+    <string name="in_call_record_error">Zəng vaxtı səsyazmaya icazə verilmir.</string>
+    <string name="button_menu">Daha çox seçimlər</string>
+    <string name="notification_bg_title">Səs yazılır</string>
+    <string name="notification_bg_content">Səs yazıcı, səs yazır\u2026</string>
+    <string name="notification_stopped_title">Səsyazma dayandırıldı</string>
+    <string name="notification_stopped_content">Zəng və ya musiqi tərəfindən kəsildi</string>
+    <string name="bt_using_headset">Bluetooth qulaqcıq istifadə edilir</string>
+    <string name="bt_headset_connecting">Qulaqcıqla bağlantı qurulur</string>
+    <string name="bt_headset_disconnected">Bluetooth bağlantısı itdi</string>
+    <string name="bt_headset_timeout">Bluetooth bağlantısı üçün qoyulan vaxt bitdi</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014-2015 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recording_paused">En pausa</string>
+    <string name="recording_finished">Gravación rematada</string>
+    <string name="error_app_unsupported">Formato non compatíbel.</string>
+    <string name="error_mediadb_incall">Esta opción non está dispoñíbel durante unha chamada.</string>
+    <string name="error_mediadb_aacincall">A grabación AAC da chamada non é compatíbel.</string>
+    <string name="storage_fallback">Revertendo cara o almacenamento interno</string>
+    <string name="format_setting">Tipo de ficheiro</string>
+    <string name="storage_setting">Localización do almacenamento</string>
+    <string name="storage_setting_local_item">Memoria interna</string>
+    <string name="no_phonestorage">Memoria interna desmontada</string>
+    <string name="keyboard">Teclado</string>
+    <string name="file_deleted">Eliminouse o ficheiro</string>
+    <string name="error_app_internal_recorder">Erro interno da aplicación.\n\nO micrófono pode estar en uso.</string>
+    <string name="view_recordings">Ver as gravacións</string>
+    <string name="denied_title">Permisos</string>
+    <string name="perm_mic">O gravador de son precisa acceder ao micrófono para gravar audio.</string>
+    <string name="perm_storage">O gravador de son precisa acceder ao almacenamento para gardar os ficheiros gravados.</string>
+    <string name="perm_phone">O gravador de son precisa acceder ao estado do teléfono para evitar que este grave mentres estás a chamar.</string>
+    <string name="perm_micstorage">O gravador de son precisa acceder ao micrófono para gravar audio mais ó almacenamento para gardar os ficheiros gravados.</string>
+    <string name="perm_micphone">O gravador de son precisa acceder ao micrófono para gravar audio mais ó estado do teléfono para evitar que este grave mentres estás a chamar.</string>
+    <string name="perm_storagephone">A grabadora de sonidos necesita acceso do almacenamiento para gardar os archivos grabados e acceso ó estado do teléfono para evitar que esta aplicación grabe mentras usted está chamando.</string>
+    <string name="perm_allperms">A grabadora de sonido necesita acceso ao micrófono para grabar o audio, acceso ao almacenamiento para gardar archivos grabados y acceso ao estado do teléfono para evitar que esta aplicación grabe mentras usted encuentrase en una chamada telefónica.</string>
+    <string name="perm_unknown">Erro do permiso, compruebe o estado do permiso na aplicación Axustes.</string>
+    <string name="ask_again">Preguntar de novo</string>
+    <string name="dismiss">Ignorar</string>
+    <string name="perm_toast">Os permisos necesarios denegaronse, ao actívalos desde a aplicación de Axustes para iniciar a grabación</string>
+    <string name="error_storage_access" product="nosdcard">No pudose acceder á tarxeta SD. Asegúrese que a grabadora de sonidos ten permiso para acceder ao almacenamiento</string>
+    <string name="error_storage_access" product="default">No pudose acceder á tarxeta SD. Asegúrese que a grabadora de sonidos ten permiso para acceder ao almacenamiento</string>
+    <string name="in_call_record_error">A gravación non está permitida durante unha chamada.</string>
+    <string name="button_menu">Máis opcións</string>
+    <string name="notification_bg_title">Gravar son</string>
+    <string name="notification_bg_content">A gravadora de son está grabando\u2026</string>
+    <string name="notification_stopped_title">Parouse a grabación</string>
+    <string name="notification_stopped_content">Interrompido por unha chamada ou música</string>
+    <string name="bt_using_headset">A empregar auriculares bluetooth</string>
+    <string name="bt_headset_connecting">Conectando cos auriculares</string>
+    <string name="bt_headset_disconnected">Conexión bluetooth perdida</string>
+    <string name="bt_headset_timeout">Tempo de espera da conexión bluetooth excedido</string>
+</resources>

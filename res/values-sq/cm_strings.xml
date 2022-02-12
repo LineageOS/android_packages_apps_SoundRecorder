@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014-2015 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recording_paused">Në pauzë</string>
+    <string name="recording_finished">Regjistrimi mbaroi</string>
+    <string name="error_app_unsupported">Format i papranueshëm.</string>
+    <string name="error_mediadb_incall">Ky opsion nuk është i disponueshëm gjatë një telefonate.</string>
+    <string name="error_mediadb_aacincall">Regjistrimi i thirrjeve zanore në formatin AAC nuk është i pranueshëm.</string>
+    <string name="storage_fallback">Duke u rikthyer në vendndodhjen e memories së brendshme</string>
+    <string name="format_setting">Lloji i skedarit</string>
+    <string name="storage_setting">Vendndodhja e memories</string>
+    <string name="storage_setting_local_item">Memoria e telefonit</string>
+    <string name="no_phonestorage">Memoria e telefonit e pamontuar</string>
+    <string name="keyboard">Tastiera</string>
+    <string name="file_deleted">Skedari është fshirë</string>
+    <string name="error_app_internal_recorder">Gabim i brendshëm i aplikacionit.\n\nMikrofoni mund të jetë në përdorim.</string>
+    <string name="view_recordings">Shikoni regjistrimet</string>
+    <string name="denied_title">Lejet</string>
+    <string name="perm_mic">Regjistruesi i Tingujve kërkon akses të mikrofonit për të regjistruar audio.</string>
+    <string name="perm_storage">Regjistruesi i Tingujve kërkon akses të memories për të ruajtur skedarët.</string>
+    <string name="perm_phone">\"Regjistruesi i zërit\" ka nevojë për qasje në statusin e telefonit për të parandaluar regjistrimin e këtij aplikacioni ndërsa jeni duke telefonuar.</string>
+    <string name="perm_micstorage">Regjistruesi i zërit ka nevojë për qasje në mikrofon për të regjistruar audio dhe akses në hapësirën ruajtëse për të ruajtur skedarët e regjistruar</string>
+    <string name="perm_micphone">\"Regjistruesi i zërit\" ka nevojë për qasje në mikrofon për të regjistruar qasjen në audio dhe statusin e telefonit për të parandaluar që ky aplikacion të regjistrojë gjatë telefonatës.</string>
+    <string name="perm_storagephone">\"Regjistruesi i zërit\" ka nevojë për qasje në hapësirën ruajtëse për të ruajtur skedarët e regjistruar dhe qasjen në statusin e telefonit për të parandaluar që ky aplikacion të regjistrojë gjatë telefonatës.</string>
+    <string name="perm_allperms">\"Regjistruesi i zërit\" ka nevojë për qasje në mikrofon për të regjistruar audio, qasje në hapësirën ruajtëse për të ruajtur skedarët e regjistruar dhe qasje në statusin e telefonit për të parandaluar që ky aplikacion të regjistrojë gjatë telefonatës.</string>
+    <string name="perm_unknown">Gabim leje, kontrolloni statusin e lejes në aplikacionin \"Cilësimet\".</string>
+    <string name="ask_again">Pyet përsëri</string>
+    <string name="dismiss">Largo</string>
+    <string name="perm_toast">Lejet e nevojitura u refuzuan. Aktivizoji ato nga aplikacioni i Parametrave për të nisur regjistrimin</string>
+    <string name="error_storage_access" product="nosdcard">Nuk mund të ketë qasje në hapësirën ruajtëse USB. Sigurohuni që Sound Recorder ka leje për të hyrë në hapësirën ruajtëse</string>
+    <string name="error_storage_access" product="default">Nuk mund të qasesh në kartën SD. Sigurohuni që Sound Recorder ka leje për të hyrë në hapësirën ruajtëse</string>
+    <string name="in_call_record_error">Regjistrimi nuk lejohet gjatë një telefonate.</string>
+    <string name="button_menu">Më shumë opsione</string>
+    <string name="notification_bg_title">Regjistrimi i audios</string>
+    <string name="notification_bg_content">Regjistruesi i Tingujve po regjistron\u2026</string>
+    <string name="notification_stopped_title">Regjistrimi u ndalua</string>
+    <string name="notification_stopped_content">Ndërpritet nga telefonata ose muzika</string>
+    <string name="bt_using_headset">Duke përdorur kufje bluetooth</string>
+    <string name="bt_headset_connecting">Duke u lidhur me kufjen</string>
+    <string name="bt_headset_disconnected">Lidhja Bluetooth u shkëput</string>
+    <string name="bt_headset_timeout">Afati i lidhjes Bluetooth skadoi</string>
+</resources>
